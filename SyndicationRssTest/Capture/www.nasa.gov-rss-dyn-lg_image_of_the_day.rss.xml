@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>NASA Image of the Day</title>
+ <description>The latest NASA &quot;Image of the Day&quot; image.</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss" />
+ <language>en-us</language>
+ <managingEditor>yvette.smith-1@nasa.gov</managingEditor>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+ <item> <title>Snow and Sand in Central Asia</title>
+ <link>http://www.nasa.gov/image-feature/snow-and-sand-in-central-asia</link>
+ <description>In December 2018, an astronaut on the International Space Station took this highly oblique photograph of snow on the eastern Tien Shan and Taklimakan Desert in Central Asia.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss057e111453_lrg.jpg" length="7114763" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/snow-and-sand-in-central-asia</guid>
+ <pubDate>Thu, 04 Apr 2019 16:20 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Cloud Formation in the South Indian Ocean</title>
+ <link>http://www.nasa.gov/image-feature/cloud-formation-in-the-south-indian-ocean</link>
+ <description>An astronaut aboard the International Space Station snapped this image as the station flew 265 miles above this cloudy formation in the south Indian Ocean.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss059e006522.jpg" length="1179439" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/cloud-formation-in-the-south-indian-ocean</guid>
+ <pubDate>Wed, 03 Apr 2019 11:22 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Operation IceBridge: Exploring Alaska’s Mountain Glaciers</title>
+ <link>http://www.nasa.gov/image-feature/operation-icebridge-exploring-alaska-s-mountain-glaciers</link>
+ <description>In Alaska, 5 percent of the land is covered by glaciers that are losing a lot of ice and contributing to sea level rise.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/46713638424_0f32acec3f_k.jpg" length="1883999" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/operation-icebridge-exploring-alaska-s-mountain-glaciers</guid>
+ <pubDate>Tue, 02 Apr 2019 11:29 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Nick Hague Completes 215th Spacewalk on Station</title>
+ <link>http://www.nasa.gov/image-feature/nick-hague-completes-215th-spacewalk-on-station</link>
+ <description>Astronaut Nick Hague performs a spacewalk on March 29, 2019.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss059e005744.jpg" length="2215322" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/nick-hague-completes-215th-spacewalk-on-station</guid>
+ <pubDate>Mon, 01 Apr 2019 10:08 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Hubble Spots Flock of Cosmic Ducks</title>
+ <link>http://www.nasa.gov/image-feature/goddard/2019/hubble-spots-flock-of-cosmic-ducks</link>
+ <description>This star-studded image shows us a portion of Messier 11, an open star cluster in the southern constellation of Scutum (the Shield). Messier 11 is also known as the Wild Duck Cluster, as its brightest stars form a “V” shape that somewhat resembles a flock of ducks in flight.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/potw1912a.jpg" length="2579018" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/goddard/2019/hubble-spots-flock-of-cosmic-ducks</guid>
+ <pubDate>Fri, 29 Mar 2019 10:37 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Hubble Watches Spun-Up Asteroid Coming Apart</title>
+ <link>http://www.nasa.gov/image-feature/hubble-watches-spun-up-asteroid-coming-apart</link>
+ <description>A small asteroid was caught in the process of spinning so fast it’s throwing off material, according to new data from NASA’s Hubble Space Telescope and other observatories.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/stsci-h-p1922a-m-2000x1164.png" length="4521802" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/hubble-watches-spun-up-asteroid-coming-apart</guid>
+ <pubDate>Thu, 28 Mar 2019 10:14 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Joan Stupik, Guidance and Control Engineer</title>
+ <link>http://www.nasa.gov/image-feature/joan-stupik-guidance-and-control-engineer</link>
+ <description>When Joan Stupik was a child, her parents bought her a mini-planetarium that she could use to project the stars on her bedroom ceiling.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/joan_stupik.jpeg" length="4456448" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/joan-stupik-guidance-and-control-engineer</guid>
+ <pubDate>Wed, 27 Mar 2019 09:30 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Orion Launch Abort System Attitude Control Motor Hot-Fire Test</title>
+ <link>http://www.nasa.gov/image-feature/orion-launch-abort-system-attitude-control-motor-hot-fire-test</link>
+ <description>A static hot-fire test of the Orion spacecraft&#039;s Launch Abort System Attitude Control Motor to help qualify the motor for human spaceflight, to help ensure Orion is ready from liftoff to splashdown for missions to the Moon.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/ngacm1_1.jpg" length="676263" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/orion-launch-abort-system-attitude-control-motor-hot-fire-test</guid>
+ <pubDate>Tue, 26 Mar 2019 09:06 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Nick Hague Completes First Spacewalk</title>
+ <link>http://www.nasa.gov/image-feature/nick-hague-completes-first-spacewalk</link>
+ <description>NASA astronaut Nick Hague completed the first spacewalk of his career on Friday, March 22, 2019. He and fellow astronaut Anne McClain worked on a set of battery upgrades for six hours and 39 minutes, on the International Space Station’s starboard truss.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/nick.jpg" length="149727" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/nick-hague-completes-first-spacewalk</guid>
+ <pubDate>Mon, 25 Mar 2019 11:23 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Hubble Captures the Brilliant Heart of a Massive Galaxy</title>
+ <link>http://www.nasa.gov/image-feature/hubble-captures-the-brilliant-heart-of-a-massive-galaxy</link>
+ <description>This fuzzy orb of light is a giant elliptical galaxy filled with an incredible 200 billion stars.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/potw1911a.jpg" length="105869" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/hubble-captures-the-brilliant-heart-of-a-massive-galaxy</guid>
+ <pubDate>Fri, 22 Mar 2019 08:39 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Margaret W. ‘Hap’ Brennecke: Trailblazer</title>
+ <link>http://www.nasa.gov/image-feature/margaret-w-hap-brennecke-trailblazer</link>
+ <description>Margaret W. ‘Hap’ Brennecke was the first female welding engineer to work in the Materials and Processes Laboratory at NASA’s Marshall Space Flight Center.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/hap_brennecke_1.jpg" length="407124" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/margaret-w-hap-brennecke-trailblazer</guid>
+ <pubDate>Thu, 21 Mar 2019 11:32 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Waxing Gibbous Moon Above Earth&#039;s Limb</title>
+ <link>http://www.nasa.gov/image-feature/waxing-gibbous-moon-above-earths-limb</link>
+ <description>The waxing gibbous moon is pictured above Earth&#039;s limb as the International Space Station was orbiting 266 miles above the South Atlantic Ocean.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/stationmoon.jpg" length="1827111" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/waxing-gibbous-moon-above-earths-limb</guid>
+ <pubDate>Wed, 20 Mar 2019 11:01 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Preparing for Apollo 11</title>
+ <link>http://www.nasa.gov/image-feature/preparing-for-apollo-11</link>
+ <description>Apollo 11 backup crew members Fred Haise (left) and Jim Lovell prepare to enter the Lunar Module for an altitude test.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/apollo_11_bu_crew_lovell_haise_lm_alt_test_mar_20_1969_ap11-69-h-548hr.jpg" length="973531" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/preparing-for-apollo-11</guid>
+ <pubDate>Tue, 19 Mar 2019 12:28 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Going Where the Wind Takes It</title>
+ <link>http://www.nasa.gov/image-feature/langley/going-where-the-wind-takes-it</link>
+ <description>​Electronics technician Anna Noe makes final checks to the Doppler Aerosol Wind Lidar (DAWN) before it begins a cross-country road trip for use in an upcoming airborne science campaign.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/lrc-2019-h1_p_dawn-031115.jpg" length="3893169" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/langley/going-where-the-wind-takes-it</guid>
+ <pubDate>Mon, 18 Mar 2019 10:14 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Liftoff! A New Crew Heads to the Space Station</title>
+ <link>http://www.nasa.gov/image-feature/liftoff-a-new-crew-heads-to-the-space-station</link>
+ <description>The Soyuz MS-12 spacecraft lifted off with Expedition 59 crewmembers on a journey to the International Space Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/47328135122_85619ed320_o.jpg" length="982872" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/liftoff-a-new-crew-heads-to-the-space-station</guid>
+ <pubDate>Fri, 15 Mar 2019 09:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>The Soyuz at Dawn</title>
+ <link>http://www.nasa.gov/image-feature/the-soyuz-at-dawn</link>
+ <description>The Soyuz rocket is seen at dawn on launch site 1 of the Baikonur Cosmodrome, Thursday, March 14, 2019 in Baikonur, Kazakhstan.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/33498981418_5880fa2253_k.jpg" length="733645" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/the-soyuz-at-dawn</guid>
+ <pubDate>Thu, 14 Mar 2019 09:39 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Stephanie Wilson: Preparing for Space</title>
+ <link>http://www.nasa.gov/image-feature/stephanie-wilson-preparing-for-space</link>
+ <description>Stephanie Wilson is a veteran of three spaceflights--STS-120, STS-121 and STS-131--and has logged more than 42 days in space.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/jsc2007e08828.jpg" length="1844091" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/stephanie-wilson-preparing-for-space</guid>
+ <pubDate>Wed, 13 Mar 2019 09:11 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Soyuz Rollout to the Launch Pad</title>
+ <link>http://www.nasa.gov/image-feature/soyuz-rollout-to-the-launch-pad</link>
+ <description>The Soyuz rocket is transported by train to the launch pad, Tuesday, March 12, 2019 at the Baikonur Cosmodrome in Kazakhstan.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/46634947384_8ecb255750_o.jpg" length="1636390" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/soyuz-rollout-to-the-launch-pad</guid>
+ <pubDate>Tue, 12 Mar 2019 09:24 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>NASA&#039;s Future:  From the Moon to Mars</title>
+ <link>http://www.nasa.gov/image-feature/nasas-future-from-the-moon-to-mars</link>
+ <description>NASA Administrator Jim Bridenstine was photographed inside the Super Guppy aircraft that will carry the flight frame with the Orion crew module to a testing facility in Ohio.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/47300989392_663a074b76_k.jpg" length="2210744" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/nasas-future-from-the-moon-to-mars</guid>
+ <pubDate>Mon, 11 Mar 2019 21:19 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Nancy Grace Roman: NASA&#039;s First Chief Astronomer</title>
+ <link>http://www.nasa.gov/image-feature/nancy-grace-roman-nasas-first-chief-astronomer</link>
+ <description>Nancy Grace Roman, NASA&#039;s first chief astronomer, is known as the &#039;Mother of Hubble.&#039;</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/27154773587_c99105746d_k.jpg" length="971516" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/nancy-grace-roman-nasas-first-chief-astronomer</guid>
+ <pubDate>Fri, 08 Mar 2019 11:29 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Ann R. McNair and Mary Jo Smith with Model of Pegasus Satellite, July 14, 1964</title>
+ <link>http://www.nasa.gov/centers/marshall/history/ann-r-mcnair-and-mary-jo-smith-with-model-of-pegasus-satellite-july-14-1964.html</link>
+ <description>In 1964, Ann R. McNair and Mary Jo Smith pose with a model of a Pegasus Satellite.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/4-9670_anne_mcnair_and_mary_jo_smith.jpg" length="351665" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/centers/marshall/history/ann-r-mcnair-and-mary-jo-smith-with-model-of-pegasus-satellite-july-14-1964.html</guid>
+ <pubDate>Thu, 07 Mar 2019 11:57 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>NASA Captures Supersonic Shock Interaction</title>
+ <link>http://www.nasa.gov/centers/armstrong/multimedia/imagegallery/Schlieren/f4_p3_cam_plane_drop_new_2-22-19.html</link>
+ <description>One of the greatest challenges of the fourth phase of Air-to-Air Background Oriented Schlieren flights, or AirBOS flight series was timing.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/f4_p3_cam_plane_drop_new_2-22-19.jpg" length="1440965" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/centers/armstrong/multimedia/imagegallery/Schlieren/f4_p3_cam_plane_drop_new_2-22-19.html</guid>
+ <pubDate>Wed, 06 Mar 2019 05:58 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>The Dawn of a New Era in Human Spaceflight</title>
+ <link>http://www.nasa.gov/image-feature/the-dawn-of-a-new-era-in-human-spaceflight</link>
+ <description>&quot;The dawn of a new era in human spaceflight,&quot; wrote astronaut Anne McClain. McClain had an unparalleled view from orbit of SpaceX&#039;s Crew Dragon spacecraft as it approached the International Space Station for docking on Sunday, March 3, 2019.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/3.3-445a2747.jpg" length="478563" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/the-dawn-of-a-new-era-in-human-spaceflight</guid>
+ <pubDate>Tue, 05 Mar 2019 11:20 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>SpaceX Falcon 9 Rocket Lifts Off From Launch Complex 39A</title>
+ <link>http://www.nasa.gov/image-feature/spacex-falcon-9-rocket-lifts-off-from-launch-complex-39a</link>
+ <description>On March 2, 2:49 a.m. EST, a two-stage SpaceX Falcon 9 rocket lifts off from Launch Complex 39A at NASA’s Kennedy Space Center in Florida for Demo-1, the first uncrewed mission of the agency’s Commercial Crew Program.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/46531972754_27aefcb3cb_k.jpg" length="1251976" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/spacex-falcon-9-rocket-lifts-off-from-launch-complex-39a</guid>
+ <pubDate>Mon, 04 Mar 2019 10:40 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>SpaceX Demo-1 Launch</title>
+ <link>http://www.nasa.gov/image-feature/spacex-demo-1-launch</link>
+ <description>A SpaceX Falcon 9 rocket with the company&#039;s Crew Dragon spacecraft onboard launches from Launch Complex 39A, Saturday, March 2, 2019.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/33384173438_dfb4fa5e4a_o.jpg" length="1574853" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/spacex-demo-1-launch</guid>
+ <pubDate>Sun, 03 Mar 2019 14:10 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Mae Jemison, First African American Woman in Space</title>
+ <link>http://www.nasa.gov/image-feature/mae-jemison-first-african-american-woman-in-space</link>
+ <description>Mae Jemison was the first African Ameican woman in space.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/mae_jemison_29487037511.jpg" length="1539289" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/mae-jemison-first-african-american-woman-in-space</guid>
+ <pubDate>Fri, 01 Mar 2019 09:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>SpaceX Demo-1: &#039;Go&#039; for Launch</title>
+ <link>http://www.nasa.gov/image-feature/spacex-demo-1-go-for-launch</link>
+ <description>Two days remain until the planned liftoff of a SpaceX Crew Dragon spacecraft on the company’s Falcon 9 rocket—the first launch of a commercially built and operated American spacecraft and space system designed for humans.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/demo-1.jpeg" length="699850" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/spacex-demo-1-go-for-launch</guid>
+ <pubDate>Thu, 28 Feb 2019 10:49 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Curiosity Drives Over a New Kind of Terrain</title>
+ <link>http://www.nasa.gov/image-feature/curiosity-drives-over-a-new-kind-of-terrain</link>
+ <description>The Curiosity Mars Rover took this image with its Mast Camera (Mastcam) on Feb. 10, 2019 (Sol 2316).</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia23047_0.jpg" length="175004" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/curiosity-drives-over-a-new-kind-of-terrain</guid>
+ <pubDate>Wed, 27 Feb 2019 11:25 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Earnest C. Smith in the Astrionics Laboratory in 1964</title>
+ <link>http://www.nasa.gov/centers/marshall/history/earnest-c-smith-in-the-astrionics-laboratory-in-1964.html</link>
+ <description>Earnest C. Smith started at NASA Marshall in 1964 as an aerospace engineer in the Astrionics Laboratory. He was instrumental in the development and verification of the navigation system of the Lunar Roving Vehicle. Smith later became director of the Astrionics Laboratory at Marshall.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/ec_smith_1.jpg" length="731063" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/centers/marshall/history/earnest-c-smith-in-the-astrionics-laboratory-in-1964.html</guid>
+ <pubDate>Tue, 26 Feb 2019 11:15 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Alvin Drew Works on the International Space Station</title>
+ <link>http://www.nasa.gov/image-feature/alvin-drew-works-on-the-international-space-station</link>
+ <description>NASA astronaut Alvin Drew participated in the STS-133 mission&#039;s first spacewalk.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss026e030929.jpg" length="920866" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/alvin-drew-works-on-the-international-space-station</guid>
+ <pubDate>Mon, 25 Feb 2019 10:30 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Hubble Peers into the Vast Distance</title>
+ <link>http://www.nasa.gov/image-feature/goddard/2019/hubble-peers-into-the-vast-distance</link>
+ <description>This picture showcases a gravitational lensing system called SDSS J0928+2031.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/potw1903a.jpg" length="3153377" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/goddard/2019/hubble-peers-into-the-vast-distance</guid>
+ <pubDate>Fri, 22 Feb 2019 10:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Good Morning From the Space Station!</title>
+ <link>http://www.nasa.gov/image-feature/good-morning-from-the-space-station</link>
+ <description>Good morning to our beautiful world, said astronaut Anne McClain from aboard the Space Station on Feb. 21, 2019.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/2.21-iss058e016863_highres.jpg" length="1811599" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/good-morning-from-the-space-station</guid>
+ <pubDate>Thu, 21 Feb 2019 10:42 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Countdown to Calving at Antarctica&#039;s Brunt Ice Shelf</title>
+ <link>http://www.nasa.gov/image-feature/countdown-to-calving-at-antarcticas-brunt-ice-shelf</link>
+ <description>Cracks growing across Antarctica’s Brunt Ice Shelf are poised to release an iceberg with an area about twice the size of New York City. It is not yet clear how the remaining ice shelf will respond following the break, posing an uncertain future for scientific infrastructure and a human presence on the shelf that was first established in 1955.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/brunt_oli_2019023_lrg_0.jpg" length="1768653" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/countdown-to-calving-at-antarcticas-brunt-ice-shelf</guid>
+ <pubDate>Wed, 20 Feb 2019 12:11 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Eat. Breathe. Do Science. Sleep Later.</title>
+ <link>http://www.nasa.gov/image-feature/eat-breathe-do-science-sleep-later</link>
+ <description>Eat. Breathe. Do ccience. Sleep later. That&#039;s the motto of Derrick Pitts, NASA Solar System Ambassador.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/g1_-_dpitts_telescope.jpg" length="4020070" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/eat-breathe-do-science-sleep-later</guid>
+ <pubDate>Tue, 19 Feb 2019 09:49 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>NASA Glenn Keeps X-57 Cool</title>
+ <link>http://www.nasa.gov/image-feature/nasa-glenn-keeps-x-57-cool</link>
+ <description>NASA is preparing to explore electric-powered flight with the X-57 Maxwell, a unique all-electric aircraft which features 14 propellers along its wing.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/grc-2018-c-09843.jpg" length="2462169" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/nasa-glenn-keeps-x-57-cool</guid>
+ <pubDate>Fri, 15 Feb 2019 08:45 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Astronauts Train for the Boeing Crew Flight Test</title>
+ <link>http://www.nasa.gov/image-feature/astronauts-train-for-the-boeing-crew-flight-test</link>
+ <description>This preflight image from Feb. 6, 2019, shows NASA astronauts Mike Fincke and Nicole Mann and Boeing astronaut Chris Ferguson during spacewalk preparations and training inside the Space Station Airlock Mockup at NASA&#039;s Johnson Space Center in Houston.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/jsc2019e002964.jpg" length="2827478" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/astronauts-train-for-the-boeing-crew-flight-test</guid>
+ <pubDate>Thu, 14 Feb 2019 06:28 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Taking a Look Back at Opportunity&#039;s Record-Setting Mission</title>
+ <link>http://www.nasa.gov/image-feature/taking-a-look-back-at-opportunitys-record-setting-mission</link>
+ <description>NASA&#039;s record-setting Opportunity rover mission on Mars comes to end.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/sunset.jpeg" length="367939" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/taking-a-look-back-at-opportunitys-record-setting-mission</guid>
+ <pubDate>Wed, 13 Feb 2019 12:57 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Robert Curbeam: Building the Space Station, Making History</title>
+ <link>http://www.nasa.gov/image-feature/robert-curbeam-building-the-space-station-making-history</link>
+ <description>Robert Curbeam currently holds the record for the most spacewalks during a single spaceflight.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss014e10084.jpg" length="1324739" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/robert-curbeam-building-the-space-station-making-history</guid>
+ <pubDate>Tue, 12 Feb 2019 11:29 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>The Red Planet&#039;s Layered History</title>
+ <link>http://www.nasa.gov/image-feature/the-red-planets-layered-history</link>
+ <description>Erosion of the surface reveals several shades of light toned layers, likely sedimentary deposits, as shown in this image taken by the HiRISE camera on the Mars Reconnaissance Orbiter.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia23059.jpg" length="2159354" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/the-red-planets-layered-history</guid>
+ <pubDate>Mon, 11 Feb 2019 11:28 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Mary Jackson: A Life of Service and a Love of Science</title>
+ <link>http://www.nasa.gov/image-feature/mary-jackson-a-life-of-service-and-a-love-of-science</link>
+ <description>Mary Jackson began her engineering career in an era in which female engineers of any background were a rarity.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/lrc-1977-b701_p-04107.jpg" length="3221897" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/mary-jackson-a-life-of-service-and-a-love-of-science</guid>
+ <pubDate>Fri, 08 Feb 2019 13:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Vice President Attends NASA Day of Remembrance</title>
+ <link>http://www.nasa.gov/image-feature/vice-president-attends-nasa-day-of-remembrance</link>
+ <description>Vice President Mike Pence visits the Space Shuttle Challenger Memorial after a wreath laying ceremony that was part of NASA&#039;s Day of Remembrance, Thursday, Feb. 7, 2019, at Arlington National Cemetery in Arlington, Va.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/32079236047_1d7fa79e68_k.jpg" length="955896" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/vice-president-attends-nasa-day-of-remembrance</guid>
+ <pubDate>Thu, 07 Feb 2019 17:17 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Apollo Astronaut Buzz Aldrin at the 2019 State of the Union</title>
+ <link>http://www.nasa.gov/image-feature/apollo-astronaut-buzz-aldrin-at-the-2019-state-of-the-union</link>
+ <description>Astronaut Buzz Aldrin salutes after being introduced at the 2019 State of the Union address.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/020519-js4-1602.jpg" length="1686955" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/apollo-astronaut-buzz-aldrin-at-the-2019-state-of-the-union</guid>
+ <pubDate>Wed, 06 Feb 2019 10:29 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Star Formation in the Orion Nebula</title>
+ <link>http://www.nasa.gov/image-feature/star-formation-in-the-orion-nebula</link>
+ <description>The powerful wind from the newly formed star at the heart of the Orion Nebula is creating the bubble and preventing new stars from forming.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/orion-bubble.png" length="681974" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/star-formation-in-the-orion-nebula</guid>
+ <pubDate>Tue, 05 Feb 2019 12:48 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Victor Glover, One of the Crew of SpaceX&#039;s First Flight to Station</title>
+ <link>http://www.nasa.gov/image-feature/victor-glover-one-of-the-crew-of-spacexs-first-flight-to-station</link>
+ <description>When SpaceX&#039;s Crew Dragon spacecraft lifts off on its first operational mission to the International Space Station, NASA astronaut Victor Glover will be aboard.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/32318922958_528cbd3f50_o.jpg" length="1497135" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/victor-glover-one-of-the-crew-of-spacexs-first-flight-to-station</guid>
+ <pubDate>Mon, 04 Feb 2019 13:50 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Sunrise From Columbia</title>
+ <link>http://www.nasa.gov/image-feature/sunrise-from-columbia</link>
+ <description>On Jan. 22, 2003, the crew of Space Shuttle Columbia captured this sunrise from the crew cabin during Flight Day 7.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/s107e05485.jpg" length="394092" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/sunrise-from-columbia</guid>
+ <pubDate>Fri, 01 Feb 2019 09:11 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Hubble Accidentally Discovers a New Galaxy</title>
+ <link>http://www.nasa.gov/image-feature/hubble-accidentally-discovers-a-new-galaxy</link>
+ <description>Despite the vastness of space, objects tend to get in front of each other.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/bedin1.png" length="2701505" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/hubble-accidentally-discovers-a-new-galaxy</guid>
+ <pubDate>Thu, 31 Jan 2019 11:34 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Sailing Over the Caribbean From the International Space Station</title>
+ <link>http://www.nasa.gov/image-feature/sailing-over-the-caribbean-from-the-international-space-station</link>
+ <description>Portions of Cuba, the Bahamas and the Turks and Caicos Islands are viewed from the International Space Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/31988314307_fdfcdbd0b0_k.jpg" length="1107689" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/sailing-over-the-caribbean-from-the-international-space-station</guid>
+ <pubDate>Wed, 30 Jan 2019 12:25 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Falcon 9, Crew Dragon Roll to Launch Pad</title>
+ <link>http://www.nasa.gov/image-feature/falcon-9-crew-dragon-roll-to-launch-pad</link>
+ <description>Falcon 9, Crew Dragon Roll to Launch Pad</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/46907789351_b5d7dddb42_o.jpg" length="1760724" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/falcon-9-crew-dragon-roll-to-launch-pad</guid>
+ <pubDate>Tue, 29 Jan 2019 11:06 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Remembering Space Shuttle Challenger</title>
+ <link>http://www.nasa.gov/multimedia/imagegallery/image_gallery_2437.html</link>
+ <description>NASA lost seven of its own on the morning of Jan. 28, 1986, when a booster engine failed, causing the Shuttle Challenger to break apart just 73 seconds after launch. In this photo from Jan. 9, 1986, the Challenger crew takes a break during countdown training at NASA&#039;s Kennedy Space Center.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/images/722342main_challenger_full_full.jpg" length="5056465" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/multimedia/imagegallery/image_gallery_2437.html</guid>
+ <pubDate>Mon, 28 Jan 2019 11:12 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Celebrating the 50th Anniversary of Apollo 8&#039;s Launch Into History</title>
+ <link>http://www.nasa.gov/image-feature/celebrating-the-50th-anniversary-of-apollo-8s-launch-into-history</link>
+ <description>Fifty years ago on Dec. 21, 1968, Apollo 8 launched from Pad A, Launch Complex 39, Kennedy Space Center at 7:51 a.m. ES).</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/s68-56050.jpg" length="2210687" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/celebrating-the-50th-anniversary-of-apollo-8s-launch-into-history</guid>
+ <pubDate>Fri, 21 Dec 2018 09:02 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Station Crew Back on Earth After 197-Day Space Mission</title>
+ <link>http://www.nasa.gov/image-feature/station-crew-back-on-earth-after-197-day-space-mission</link>
+ <description>Russian Search and Rescue teams arrive at the Soyuz MS-09 spacecraft shortly after it landed with Expedition 57 crew members.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/32518530168_88a2729274_k_1.jpg" length="620757" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/station-crew-back-on-earth-after-197-day-space-mission</guid>
+ <pubDate>Thu, 20 Dec 2018 10:05 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>SpaceX’s Crew Dragon Spacecraft and Falcon 9 Rocket</title>
+ <link>http://www.nasa.gov/image-feature/spacex-s-crew-dragon-spacecraft-and-falcon-9-rocket</link>
+ <description>SpaceX’s Crew Dragon spacecraft and Falcon 9 rocket are positioned at the company’s hangar at Launch Complex 39A at NASA’s Kennedy Space Center in Florida, ahead of the test targeted for Jan. 17, 2019.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/dm-1-20181218-129a8083-2-apprvd.jpg" length="1885477" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/spacex-s-crew-dragon-spacecraft-and-falcon-9-rocket</guid>
+ <pubDate>Wed, 19 Dec 2018 11:07 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Testing the Space Launch System</title>
+ <link>http://www.nasa.gov/image-feature/testing-the-space-launch-system</link>
+ <description>Engineers built a tank identical to the Space Launch System tank that will be flown on Exploration Mission-1, the first flight of Space Launch System and the Orion spacecraft for testing.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/maf_20181126_p_lh2_lift_onto_aft_sim-42.jpg" length="3083141" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/testing-the-space-launch-system</guid>
+ <pubDate>Tue, 18 Dec 2018 10:28 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>115 Years of Flight</title>
+ <link>http://www.nasa.gov/image-feature/115-years-of-flight-0</link>
+ <description>For most of human history, we mortals have dreamed of taking to the skies. Then, 115 years ago on on December 17, 1903, Orville and Wilbur Wright achieved the impossbile.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/wrightflyer.jpg" length="1035710" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/115-years-of-flight-0</guid>
+ <pubDate>Mon, 17 Dec 2018 11:02 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Giant Black Hole Powers Cosmic Fountain</title>
+ <link>http://www.nasa.gov/image-feature/giant-black-hole-powers-cosmic-fountain</link>
+ <description>Before electricity, water fountains worked by relying on gravity to channel water from a higher elevation to a lower one. In space, awesome gaseous fountains have been discovered in the centers of galaxy clusters.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/a2597_0.jpg" length="1209648" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/giant-black-hole-powers-cosmic-fountain</guid>
+ <pubDate>Fri, 14 Dec 2018 10:30 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Astronauts Anne McClain and Serena Auñón-Chancellor Work Aboard the Station</title>
+ <link>http://www.nasa.gov/image-feature/astronauts-anne-mcclain-and-serena-au-n-chancellor-work-aboard-the-station</link>
+ <description>NASA astronauts Anne McClain (background) and Serena Auñón-Chancellor are pictured inside the U.S. Destiny laboratory module aboard the International Space Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss057e114340_0.jpg" length="4332027" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/astronauts-anne-mcclain-and-serena-au-n-chancellor-work-aboard-the-station</guid>
+ <pubDate>Thu, 13 Dec 2018 09:38 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Spirit of Apollo - 50th Anniversary of Apollo 8 at the Washington National Cathedral</title>
+ <link>http://www.nasa.gov/image-feature/spirit-of-apollo-50th-anniversary-of-apollo-8-at-the-washington-national-cathedral</link>
+ <description>The Washington National Cathedral is seen lit up with space imagery prior to the Smithsonian National Air and Space Museum&#039;s Spirit of Apollo event commemorating the 50th anniversary of Apollo 8, Tuesday, Dec. 11, 2018 in Washington, DC.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/spirit_of_apollo_washington_national_cathedral_for_50th_anniversary_of_apollo_8_0.jpg" length="20305142" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/spirit-of-apollo-50th-anniversary-of-apollo-8-at-the-washington-national-cathedral</guid>
+ <pubDate>Wed, 12 Dec 2018 14:21 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>ICESat-2 Reveals Profile of Ice Sheets</title>
+ <link>http://www.nasa.gov/image-feature/icesat-2-reveals-profile-of-ice-sheets</link>
+ <description>Less than three months into its mission, NASA’s Ice, Cloud and land Elevation Satellite-2, or ICESat-2, is already exceeding scientists’ expectations.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/seaice11.jpg" length="974620" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/icesat-2-reveals-profile-of-ice-sheets</guid>
+ <pubDate>Tue, 11 Dec 2018 09:09 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Viewing the Approach of SpaceX&#039;s Dragon to the Space Station</title>
+ <link>http://www.nasa.gov/image-feature/viewing-the-approach-of-spacexs-dragon-to-the-space-station</link>
+ <description>International Space Station Commander Alexander Gerst viewed SpaceX’s Dragon cargo craft chasing the orbital laboratory on Dec. 8, 2018 and took a series of photos.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/45532312914_2634bd334e_k.jpg" length="742769" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/viewing-the-approach-of-spacexs-dragon-to-the-space-station</guid>
+ <pubDate>Mon, 10 Dec 2018 11:10 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Astronaut Anne McClain&#039;s First Voyage to the Space Station</title>
+ <link>http://www.nasa.gov/image-feature/astronaut-anne-mcclains-first-voyage-to-the-space-station</link>
+ <description>&quot;Putting this journey into words will not be easy, but I will try. I am finally where I was born to be,&quot; said astronaut Anne McClain of her first voyage to space.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/anne.jpg" length="2277660" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/astronaut-anne-mcclains-first-voyage-to-the-space-station</guid>
+ <pubDate>Fri, 07 Dec 2018 10:48 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+</channel>
+</rss>

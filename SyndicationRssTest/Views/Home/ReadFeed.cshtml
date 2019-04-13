@@ -1,0 +1,162 @@
+﻿@{
+    PFSXSession<UserSessionVariables> session = (PFSXSession<UserSessionVariables>)ViewData["SESSION"];
+
+    UserSessionVariables vars = session.SessionVariables;
+}
+
+@functions
+{
+    private string IsOptionChecked(int n, int compareTo)
+    {
+        string rt = "";
+        if (n == compareTo)
+        {
+            rt = "checked";
+        }
+        return rt;
+    }
+}
+
+<form id="FORM_CREATE" action="/Home/ReadFeedSubmit" method="post" onsubmit="return OnReadFeedSubmit()">
+    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding-top:6.0em">
+
+    </div>
+
+
+
+    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12">
+
+        <div class="jumbotron">
+
+
+
+            <div class="row">
+                <div class="col-xl-1 col-lg-1 col-md-2 col-sm-4 col-xs-4">
+                    <img class="img-fluid" src="~/images/rsslogo.gif" />
+                </div>
+
+                <div class="col-xl-11 col-lg-11 col-md-10 col-sm-8 col-xs-8">
+                    <H3>Read Feed Testing</H3>
+                    This area defines various Read Feed tests.  This feature requires <b>FIREFOX</b> or a browser that can
+                    display formatted JSON.  Select the feed from the dropdown list or
+                    enter in the feed url and then click Submit.
+                </div>
+
+            </div>
+
+
+            <div class="form-group" style="padding-top:2.0em">
+                <label>Feed URL:</label>
+
+                <div class="input-group dropdown" id="COMBOBOX">
+
+                    <input type="text" class="form-control" name="COMBOBOX_FEED_URL"
+                           id="COMBOBOX_FEED_URL" placeholder="RSS Feed URL" value="@session.SessionVariables.LastReadUrl" />
+
+                    <button class="btn btn-primary text-white dropdown-toggle" id="COMBOBOX_BUTTON" data-toggle="dropdown">
+                        <span class="caret"></span>
+                    </button>
+
+                    <div class="dropdown-menu dropdown-menu-right w-100 combobox">
+
+                        <a class="dropdown-item comboboxitem"
+                           onclick="ComboBoxItemClick(this, 'COMBOBOX_FEED_URL')"
+                           onmouseover="ComboBoxItemOnMouseOver(this)"
+                           onmouseout="ComboBoxItemOnMouseOut(this)"></a>
+
+                        @for (int i = 0; i < RssFeeds.Feeds.Count; i++)
+                        {
+
+                            string s = "<div class=\"row\">";
+                            s += "<div style=\"width:33%;overflow:none\">" + RssFeeds.Feeds[i].Title + "</div>";
+                            s += "<div style=\"width:67%\">" + RssFeeds.Feeds[i].Url + "</div>";
+                            s += "</div>";
+
+                            <a class="dropdown-item comboboxitem"
+                               onclick="ComboBoxItemClick(this, 'COMBOBOX_FEED_URL')"
+                               onmouseover="ComboBoxItemOnMouseOver(this)"
+                               onmouseout="ComboBoxItemOnMouseOut(this)" data-value="@RssFeeds.Feeds[i].Url">@Html.Raw(s)</a>
+
+                        }
+
+                    </div>
+                </div>
+
+
+            </div>
+
+
+            <div class="form-group">
+
+                <div class="form-check-inline">
+                    <label class="form-check-label">
+                        <input type="radio" class="form-check-input" name="OUTPUT_FORMAT" value="0" @Html.Raw(IsOptionChecked(0, vars.LastReadOutputFormat))>Display
+                    </label>
+                </div>
+
+                <div class="form-check-inline disabled">
+                    <label class="form-check-label">
+                        <input type="radio" class="form-check-input" name="OUTPUT_FORMAT" value="1" @Html.Raw(IsOptionChecked(1, vars.LastReadOutputFormat))>XML (Rss20)
+                    </label>
+                </div>
+
+                <div class="form-check-inline">
+                    <label class="form-check-label">
+                        <input type="radio" class="form-check-input" name="OUTPUT_FORMAT" value="2" @Html.Raw(IsOptionChecked(2, vars.LastReadOutputFormat))>Response XML (No PI)
+                    </label>
+                </div>
+
+
+                <div class="form-check-inline">
+                    <label class="form-check-label">
+                        <input type="radio" class="form-check-input" name="OUTPUT_FORMAT" value="3" @Html.Raw(IsOptionChecked(3, vars.LastReadOutputFormat))>Response XML (Raw)
+                    </label>
+                </div>
+
+                <div class="form-check-inline disabled">
+                    <label class="form-check-label">
+                        <input type="radio" class="form-check-input" name="OUTPUT_FORMAT" value="4" @Html.Raw(IsOptionChecked(4, vars.LastReadOutputFormat))>JSON (Rss20)
+                    </label>
+                </div>
+
+
+
+
+
+            </div>
+
+            <div class="form-group">
+                <p>Note, if you get an error in ResponseXML Raw, then there is an improperly formed stylesheet reference set in the feed.  Run ResponseXML (No PI) instead</p>
+            </div>
+
+
+            <div class="form-group text-right" style="padding-top:1.0em">
+                <button type="button" class="btn btn-secondary" onclick="ReturnHome()">Return</button>
+                &nbsp;
+                <input type="submit" class="btn btn-primary" value="Submit" />
+            </div>
+
+
+
+        </div>
+    </div>
+
+</form>
+
+
+
+<div class="lds-spinner collapse" id="waitcursordiv"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
+
+
+@section ViewSpecificJavascript
+    {
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            document.body.style.crusor = "default";
+            $('#waitcursordiv').hide();
+
+        });
+    </script>
+}
+

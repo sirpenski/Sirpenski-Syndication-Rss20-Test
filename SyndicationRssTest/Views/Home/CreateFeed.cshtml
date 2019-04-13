@@ -1,0 +1,121 @@
+﻿@{
+    List<TestItem> lstTests = (List<TestItem>)ViewData["TESTS"];
+
+    PFSXSession<UserSessionVariables> session = (PFSXSession<UserSessionVariables>)ViewData["SESSION"];
+    UserSessionVariables vars = session.SessionVariables;
+
+}
+
+@functions
+{
+    private string IsOptionChecked(int n, int compareTo)
+    {
+        string rt = "";
+        if (n == compareTo)
+        {
+            rt = "checked";
+        }
+        return rt;
+    }
+
+
+    private string IsOptionSelected(int n, int compareTo)
+    {
+        string rt = "";
+        if (n == compareTo)
+        {
+            rt = "selected";
+        }
+        return rt;
+    }
+}
+
+<form id="FORM_CREATE" action="/Home/CreateFeedSubmit" method="post" onsubmit="return OnCreateFeedSumbit()">
+    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding-top:6.0em">
+
+    </div>
+
+
+
+    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12">
+
+        <div class="jumbotron">
+
+
+
+            <div class="row">
+                <div class="col-xl-1 col-lg-1 col-md-2 col-sm-4 col-xs-4">
+                    <img class="img-fluid" src="~/images/rsslogo.gif" />
+                </div>
+
+                <div class="col-xl-11 col-lg-11 col-md-10 col-sm-8 col-xs-8">
+                    <H3>Create Feed Testing</H3>
+                    This area defines various Feed Creation tests.  This feature requires <b>FIREFOX</b> or a browser that can
+                    display formatted JSON.  Select the test from the dropdown list and then click Submit.
+                </div>
+
+            </div>
+
+
+            <div class="form-group" style="padding-top:2.0em">
+                <label>Test Title:</label>
+
+                <select id="TEST_ID" name="TEST_ID" class="form-control">
+
+                    <!option value="0" data-value="" onclick="OnCreateFeedTestSelect(this)" @Html.Raw(IsOptionSelected(vars.LastCreateTestID, 0))>Select A Test.....</!option>
+
+
+                    @for (int i = 0; i < lstTests.Count; i++)
+                    {
+                        <!option value="@lstTests[i].id" data-value="@lstTests[i].desc" onclick="OnCreateFeedTestSelect(this)" @Html.Raw(IsOptionSelected(vars.LastCreateTestID, lstTests[i].id))>@lstTests[i].title</!option>
+                    }
+
+                </select>
+
+
+            </div>
+
+
+
+
+
+            <div class="form-group">
+
+                <div class="form-check-inline disabled">
+                    <label class="form-check-label">
+                        <input type="radio" class="form-check-input" name="OUTPUT_FORMAT" value="0" @Html.Raw(IsOptionChecked(0, vars.LastCreateOutputFormat)) />
+                        XML (Rss20)
+                    </label>
+                </div>
+
+                <div class="form-check-inline disabled">
+                    <label class="form-check-label">
+                        <input type="radio" class="form-check-input" name="OUTPUT_FORMAT" value="1" @Html.Raw(IsOptionChecked(1, vars.LastCreateOutputFormat)) />
+                        JSON (Rss20)
+                    </label>
+                </div>
+
+
+
+
+            </div>
+
+            <div class="form-group">
+                <p id="TEST_DESCRIPTION"></p>
+
+            </div>
+
+
+            <div class="form-group text-right" style="padding-top:1.0em">
+                <button type="button" class="btn btn-secondary" onclick="ReturnHome()">Return</button>
+                &nbsp;
+                <input type="submit" class="btn btn-primary" value="Submit" />
+            </div>
+
+
+
+        </div>
+    </div>
+
+</form>
+

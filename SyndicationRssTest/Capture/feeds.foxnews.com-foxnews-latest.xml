@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.foxnews.com/~d/styles/itemcontent.css"?><rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+                    <title>FOX News</title>
+    <link>http://www.foxnews.com/</link>
+    <description><![CDATA[FOXNews.com - Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports.]]></description>
+        <image>
+    	<url>http://tools.foxnews.com/sites/tools.foxnews.com/files/images/fox-news-logo.png</url>
+    	<title>FOX News</title>
+    	<link>http://www.foxnews.com/</link>
+    </image>
+            <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/world/police-wont-charge-australian-teen-or-senator-over-egg-spat</guid>
+      <link>https://www.foxnews.com/world/police-wont-charge-australian-teen-or-senator-over-egg-spat</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/04/ContentBroker_contentid-ad01d85301b54657b5d7759af1aaa673-1.png" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/ContentBroker_contentid-ad01d85301b54657b5d7759af1aaa673-1.png" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/ContentBroker_contentid-ad01d85301b54657b5d7759af1aaa673-1.png" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">3fe519b2-930a-5459-bd38-a13bf41e1d8d</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/world/religion</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/australia</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/pacific</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/world</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Police won't charge Australian teen or senator over egg spat</title>
+      <description>Police say they will not charge an Australian teenager or a senator for a spat in which the boy cracked an egg on the politician's head and the man retaliated.</description>
+                  <dc:creator>TREVOR MARSHALLSEA</dc:creator>
+                         <pubDate>Tue, 09 Apr 2019 04:25:38 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">TREVOR MARSHALLSEA</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/davis-sets-record-at-0-for-49-including-warning-track-shot</guid>
+      <link>https://www.foxnews.com/sports/davis-sets-record-at-0-for-49-including-warning-track-shot</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/04/Chris-Davis-THUMB.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Chris-Davis-THUMB.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Chris-Davis-THUMB.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">1784d245-22d3-5cf7-bc67-aabc08d82c6f</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Chris Davis sets record at 0 for 49, including warning track shot</title>
+      <description>Hitting the ball sharply and getting good distance on his outs now counts as progress for struggling Chris Davis, whose futility at the plate has earned him another dubious major league record.</description>
+                   <pubDate>Tue, 09 Apr 2019 04:23:55 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/tech/writers-3-year-old-son-disables-ipad-for-half-a-century</guid>
+      <link>https://www.foxnews.com/tech/writers-3-year-old-son-disables-ipad-for-half-a-century</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/04/iPad.png" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/iPad.png" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/iPad.png" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">9e6fa4e5-0ab3-58ca-baab-0d5cb4d51b4d</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/tech</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/tech</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>3-year-old disables dad's iPad for 25 million minutes, or nearly half a century</title>
+      <description>A D.C.-based journalist has apparently been locked out of his iPad for more than 25 million minutes – or, nearly half a century – after his 3-year-old son tried to use it without the correct password, according to a screengrab shared on his Twitter page.</description>
+                  <dc:creator>Bradford Betz</dc:creator>
+                         <pubDate>Tue, 09 Apr 2019 04:17:35 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Bradford Betz</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/acting-appointments-help-trump-avoid-saying-youre-hired</guid>
+      <link>https://www.foxnews.com/us/acting-appointments-help-trump-avoid-saying-youre-hired</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/04/6b18104f-ContentBroker_contentid-f4e7f4a982ba41aa99fe3634db91be8b.png" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/6b18104f-ContentBroker_contentid-f4e7f4a982ba41aa99fe3634db91be8b.png" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/6b18104f-ContentBroker_contentid-f4e7f4a982ba41aa99fe3634db91be8b.png" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">fb137a18-323c-56ef-8072-3c15abc73c2c</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/military</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Acting appointments help Trump avoid saying 'You're hired'</title>
+      <description>As President Donald Trump looks to reshape the executive branch, he's avoiding the words "You're hired."</description>
+                  <dc:creator>ZEKE MILLER</dc:creator>
+                         <pubDate>Tue, 09 Apr 2019 04:14:33 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">ZEKE MILLER</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/world/israelis-vote-in-election-focused-on-longtime-pm-netanyahu</guid>
+      <link>https://www.foxnews.com/world/israelis-vote-in-election-focused-on-longtime-pm-netanyahu</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/04/ContentBroker_contentid-dc4973ac9fb143dbac86f703dcd73e56-1.png" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/ContentBroker_contentid-dc4973ac9fb143dbac86f703dcd73e56-1.png" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/ContentBroker_contentid-dc4973ac9fb143dbac86f703dcd73e56-1.png" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">82077fef-0064-5942-a8a6-18ce0e99d0fd</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/middle-east</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/world</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Israelis vote in election focused on longtime PM Netanyahu</title>
+      <description>Voting has begun in the Israeli elections as the country decides whether longtime Prime Minister Benjamin Netanyahu remains in power.</description>
+                   <pubDate>Tue, 09 Apr 2019 04:06:09 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline">JERUSALEM</category>
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/world/brazils-bolsonaro-has-a-few-wins-some-missteps-in-100-days</guid>
+      <link>https://www.foxnews.com/world/brazils-bolsonaro-has-a-few-wins-some-missteps-in-100-days</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/04/ContentBroker_contentid-edd19fa888f342a7b657aad22ba22b3b.png" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/ContentBroker_contentid-edd19fa888f342a7b657aad22ba22b3b.png" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/ContentBroker_contentid-edd19fa888f342a7b657aad22ba22b3b.png" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">353eb15f-5b1f-5535-a356-f1a5de1d98fd</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/middle-east</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/americas</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/asia</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/world</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Brazil's Bolsonaro has a few wins, some missteps in 100 days</title>
+      <description>President Jair Bolsonaro's first 100 days in office have been marked by infighting in his administration, insults to adversaries and allies, praise for Brazil's 1964-1985 dictatorship and a scarcity of bills passed by Congress — pretty much the same as his record as a congressman and as a candidate.</description>
+                  <dc:creator>MARCELO SILVA DE SOUSA and MAURICIO SAVARESE</dc:creator>
+                         <pubDate>Tue, 09 Apr 2019 04:01:43 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">MARCELO SILVA DE SOUSA and MAURICIO SAVARESE</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/fire-ice-and-puberty-how-thrones-characters-have-grown</guid>
+      <link>https://www.foxnews.com/us/fire-ice-and-puberty-how-thrones-characters-have-grown</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/04/ContentBroker_contentid-1e365231a26448f8919cc0570466a95f.png" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/ContentBroker_contentid-1e365231a26448f8919cc0570466a95f.png" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/ContentBroker_contentid-1e365231a26448f8919cc0570466a95f.png" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">4c834654-a5ee-59da-8d6a-9f89725fd59b</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/terror</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Fire, ice and puberty: How 'Thrones' characters have grown</title>
+      <description>Living in Westeros can really change a person.</description>
+                  <dc:creator>ANDREW DALTON</dc:creator>
+                         <pubDate>Tue, 09 Apr 2019 03:55:40 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">ANDREW DALTON</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/virginia-texas-tech-ncaa-championship-goes-into-overtime</guid>
+      <link>https://www.foxnews.com/sports/virginia-texas-tech-ncaa-championship-goes-into-overtime</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/04/d115beda-1024-preview.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/d115beda-1024-preview.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/d115beda-1024-preview.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">b762e5f7-336d-5def-abcd-f26ac4edba56</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Virginia defeats Texas Tech to win NCAA National championship</title>
+      <description>Virginia edges Texas Tech 85-77 in overtime thriller for NCAA title, an epic comeback from a historic upset 1 year ago.</description>
+                   <pubDate>Tue, 09 Apr 2019 03:51:01 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/rep-ilhan-omar-calls-stephen-miller-a-white-nationalist</guid>
+      <link>https://www.foxnews.com/politics/rep-ilhan-omar-calls-stephen-miller-a-white-nationalist</link>
+                  <media:group>
+        <media:content url="https://media2.foxnews.com/BrightCove/694940094001/2019/04/02/694940094001_6021602162001_6021596940001-vs.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/694940094001_6021602162001_6021596940001-vs.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/694940094001_6021602162001_6021596940001-vs.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">1420b3f0-3a37-50ba-8943-09fc8534081c</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/immigration/border-security</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Rep. Ilhan Omar calls Stephen Miller a ‘white nationalist’</title>
+      <description>Rep. Ilhan Omar, D-Minn., took to Twitter on Monday to criticize White House adviser Stephen Miller's influence on policy and called him a "white nationalist."</description>
+                  <dc:creator>Joseph Wulfsohn</dc:creator>
+                         <pubDate>Tue, 09 Apr 2019 03:26:29 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Joseph Wulfsohn</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/kris-kobach-department-of-homeland-security-trumps-biggest-impediment</guid>
+      <link>https://www.foxnews.com/politics/kris-kobach-department-of-homeland-security-trumps-biggest-impediment</link>
+                  <media:group>
+        <media:content url="https://media2.foxnews.com/BrightCove/694940094001/2019/04/09/694940094001_6024138391001_6024136374001-vs.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/694940094001_6024138391001_6024136374001-vs.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/694940094001_6024138391001_6024136374001-vs.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">9191fd99-bdba-5392-9b27-292b67e302d5</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/immigration/border-security</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/topic/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/tucker-carlson-tonight</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Kris Kobach: Department of Homeland Security Trump's 'biggest impediment'</title>
+      <description>The former Kansas Secretary of State on Monday appeared on “Tucker Carlson Tonight” and said the Department of Homeland Security has been the “biggest impediment” President Trump has faced while trying to implement his immigration agenda.</description>
+                  <dc:creator>Victor Garcia</dc:creator>
+                         <pubDate>Tue, 09 Apr 2019 03:08:22 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Victor Garcia</category>
+                            </item>
+      </channel>
+</rss>

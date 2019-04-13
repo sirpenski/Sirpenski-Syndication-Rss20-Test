@@ -1,0 +1,885 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Home Page</title>
+    <link>http://www.nytimes.com/pages/index.html?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2019  The New York Times Company</copyright>
+    <lastBuildDate>Tue, 09 Apr 2019 04:38:25 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; Home Page</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>http://www.nytimes.com/pages/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>Trump Purge Set to Force Out More Top Homeland Security Officials</title>
+      <link>https://www.nytimes.com/2019/04/08/us/politics/randolph-alles-secret-service.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/us/politics/randolph-alles-secret-service.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/08/us/politics/randolph-alles-secret-service.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/08/us/politics/08dc-purge-sub/08dc-purge-sub-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Trump sought the resignation of the director of the Secret Service, and more Department of Homeland Security officials were expected to leave soon.</media:description>
+      <media:credit>Sarah Silbiger/The New York Times</media:credit>
+      <description>As the president expressed frustration with his own administration, the top echelon of the department managing border security and other matters was being hollowed out.</description>
+      <dc:creator>PETER BAKER, MAGGIE HABERMAN, NICHOLAS FANDOS and ZOLAN KANNO-YOUNGS</dc:creator>
+      <pubDate>Tue, 09 Apr 2019 02:29:21 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Secret Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Citizenship and Immigration Services (US)</category>
+    </item>
+    <item>
+      <title>Trump Signals Even Fiercer Immigration Agenda, With a Possible Return of Family Separations</title>
+      <link>https://www.nytimes.com/2019/04/08/us/politics/trump-asylum-seekers-federal-judge.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/us/politics/trump-asylum-seekers-federal-judge.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/08/us/politics/trump-asylum-seekers-federal-judge.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/08/us/politics/08dc-dhs/08dc-dhs-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Migrants entering a Border Patrol vehicle in Sunland Park, N.M. last month. More than 2,700 children were separated from their parents at the border under Mr. Trump&#x2019;s &#x201C;zero tolerance&#x201D; policy.</media:description>
+      <media:credit>Paul Ratje/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The longer-term effect of the eruption of Oval Office frustration is likely to be a burst of anti-immigrant policies that stand out, even for Mr. Trump.</description>
+      <dc:creator>MICHAEL D. SHEAR, ZOLAN KANNO-YOUNGS and MAGGIE HABERMAN</dc:creator>
+      <pubDate>Tue, 09 Apr 2019 01:31:10 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nielsen, Kirstjen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>Chinese Woman Arrested at Mar-a-Lago Had a Hidden Camera Detector, Prosecutors Say</title>
+      <link>https://www.nytimes.com/2019/04/08/us/chinese-woman-mar-a-lago.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/us/chinese-woman-mar-a-lago.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/08/us/chinese-woman-mar-a-lago.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/08/us/08maralago/08maralago-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Chinese woman who was arrested after gaining entry to President Trump&#x2019;s Mar-a-Lago resort appeared in court on Monday.</media:description>
+      <media:credit>Joe Raedle/Getty Images</media:credit>
+      <description>Yujing Zhang, 32, was allowed into President Trump&#x2019;s resort by Secret Service agents, but was later arrested. The authorities said she also had large amounts of cash in her hotel room.</description>
+      <dc:creator>FRANCES ROBLES</dc:creator>
+      <pubDate>Mon, 08 Apr 2019 22:04:39 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Mar-a-Lago (Palm Beach, Fla)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yujing Zhang</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Palm Beach (Fla)</category>
+    </item>
+    <item>
+      <title>Boeing&#x2019;s 737 Max: 1960s Design, 1990s Computing Power and Paper Manuals</title>
+      <link>https://www.nytimes.com/2019/04/08/business/boeing-737-max-.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/business/boeing-737-max-.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/08/business/boeing-737-max-.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/05/business/00boeing-1/00boeing-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Boeing 737, in 1968, the year after it was christened. Boeing pitched the plane as a smaller alternative to its larger jets, earning it the nickname the &#x201C;Baby Boeing.&#x201D;</media:description>
+      <media:credit>Bettmann, via Getty Images</media:credit>
+      <description>The Boeing jet that crashed twice in five months relied on decades-old systems and left pilots without some common safety features.</description>
+      <dc:creator>JACK NICAS and JULIE CRESWELL</dc:creator>
+      <pubDate>Tue, 09 Apr 2019 03:29:34 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boeing 737 Max Groundings and Safety Concerns (2019)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Engineering and Engineers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Boeing Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Engines</category>
+    </item>
+    <item>
+      <title>News Analysis: In Trump, Netanyahu Sees an Ally Who Helps Him Push the Envelope</title>
+      <link>https://www.nytimes.com/2019/04/08/us/politics/trump-netanyahu-israel.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/us/politics/trump-netanyahu-israel.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/08/us/politics/trump-netanyahu-israel.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/08/us/politics/08dc-prexy/08dc-prexy-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Prime Minister Benjamin Netanyahu of Israel last month at the White House with President Trump. Mr. Trump has wrapped Mr. Netanyahu in a warm embrace from the beginning of his presidency.</media:description>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <description>President Trump has given Prime Minister Benjamin Netanyahu the political cover to embrace a position that critics say would all but extinguish the dream of a viable Palestinian state.</description>
+      <dc:creator>MARK LANDLER</dc:creator>
+      <pubDate>Mon, 08 Apr 2019 23:49:36 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Diplomatic Service, Embassies and Consulates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+    </item>
+    <item>
+      <title>Why Some Israelis Still Support Netanyahu</title>
+      <link>https://www.nytimes.com/video/world/middleeast/100000006431686/israel-elections-netanyahu.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/world/middleeast/100000006431686/israel-elections-netanyahu.html</guid>
+      <description>Prime Minister Benjamin Netanyahu is caught up in a corruption scandal that has clouded his campaign ahead of Tuesday&#x2019;s election, but some Israelis still support him. We went there to understand why they are sticking with him.</description>
+      <dc:creator/>
+      <pubDate>Mon, 08 Apr 2019 22:19:42 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_per">Gantz, Benny</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_per">Regev, Miriam (1965- )</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_per">Shaked, Ayelet (1976- )</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Likud Party (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/mdes">Jews and Judaism</category>
+    </item>
+    <item>
+      <title>Netanyahu&#x2019;s Talk of West Bank Annexations Is a Blow to Peace but No Surprise, Palestinians Say</title>
+      <link>https://www.nytimes.com/2019/04/08/world/middleeast/netanyahu-west-bank-annexation-palestinians.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/world/middleeast/netanyahu-west-bank-annexation-palestinians.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/08/world/middleeast/netanyahu-west-bank-annexation-palestinians.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/08/world/08westbank-palestinians1/08westbank-palestinians1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Laborers at a construction site in the Israeli settlement of Beitar Illit in the West Bank on Sunday.</media:description>
+      <media:credit>Ronen Zvulun/Reuters</media:credit>
+      <description>Absorbing Jewish settlements on the West Bank into Israel could draw violent reactions, Arabs warn, but it would also confirm what they think is Israel&#x2019;s goal.</description>
+      <dc:creator>RICHARD P&#xC9;REZ-PE&#xD1;A</dc:creator>
+      <pubDate>Mon, 08 Apr 2019 20:43:28 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Palestinian Authority</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Fatah, Al</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bethlehem (West Bank)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ramallah (West Bank)</category>
+    </item>
+    <item>
+      <title>Felicity Huffman and 13 Others to Plead Guilty in College Admissions Scandal</title>
+      <link>https://www.nytimes.com/2019/04/08/us/felicity-huffman-guilty.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/us/felicity-huffman-guilty.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/08/us/felicity-huffman-guilty.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/08/us/08huffman/08huffman-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Felicity Huffman left a federal court hearing in Boston earlier this month.</media:description>
+      <media:credit>Sarah Rice for The New York Times</media:credit>
+      <description>Ms. Huffman is the best-known figure to admit wrongdoing in the investigation, which found faked test scores, phony athletic credentials and big payments.</description>
+      <dc:creator>KATE TAYLOR</dc:creator>
+      <pubDate>Mon, 08 Apr 2019 23:04:38 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">College Admissions Scandal (2019)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huffman, Felicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macy, William H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">University of Southern California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Loughlin, Lori</category>
+    </item>
+    <item>
+      <title>Olympic Cyclist Kelly Catlin Seemed Destined for Glory. Then She Killed Herself.</title>
+      <link>https://www.nytimes.com/2019/04/08/sports/kelly-catlin-death.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/sports/kelly-catlin-death.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/08/sports/kelly-catlin-death.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/08/sports/08catlin-colin/merlin_153214389_562e1285-2c3e-48d7-97ae-8e7b0b07dbfe-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Kelly Catlin&#x2019;s brother, Colin, sifts through the belongings retrieved from her graduate student apartment at Stanford, hoping for clues explaining why she took her life last month at age 23.</media:description>
+      <media:credit>Jenn Ackerman for The New York Times</media:credit>
+      <description>Catlin was lining up for a shot at Olympic gold. And an elite mathematical mind would open opportunities off the track. But torment lurked behind the success.</description>
+      <dc:creator>JULIET MACUR</dc:creator>
+      <pubDate>Mon, 08 Apr 2019 23:17:33 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cycling, Road</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cycling, Track</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Concussions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Suicide Prevention Lifeline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Stanford University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">USA Cycling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Catlin, Kelly (1995-2019)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minneapolis (Minn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minnesota</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado</category>
+    </item>
+    <item>
+      <title>Virginia Beats Texas Tech in OT to Claim Its First N.C.A.A. Title</title>
+      <link>https://www.nytimes.com/2019/04/08/sports/ncaa-tournament-virginia-texas-tech.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/sports/ncaa-tournament-virginia-texas-tech.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/08/sports/ncaa-tournament-virginia-texas-tech.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/09/sports/09ncaa-men-web-top-sub1/09ncaa-men-web-top-sub1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Kyle Guy helped lead Virginia to its first N.C.A.A. championship.</media:description>
+      <media:credit>David J. Phillip/Associated Press</media:credit>
+      <description>The Cavaliers completed a yearlong march to redemption after ending the 2018 season as the first No. 1 seed to lose to a No. 16 in the men&#x2019;s tournament.</description>
+      <dc:creator>BILLY WITZ</dc:creator>
+      <pubDate>Tue, 09 Apr 2019 04:21:27 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">University of Virginia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Texas Tech University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">NCAA Basketball Championships (Men)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball (College)</category>
+    </item>
+    <item>
+      <title>Homeland Security, Israel, Church Fires: Your Monday Evening Briefing</title>
+      <link>https://www.nytimes.com/2019/04/08/briefing/homeland-security-israel-church-fires.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/briefing/homeland-security-israel-church-fires.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/08/briefing/homeland-security-israel-church-fires.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/08/briefing/08evening-briefing-slide-9EHE/08evening-briefing-slide-9EHE-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Loren Elliott/Reuters</media:credit>
+      <description>Here&#x2019;s what you need to know at the end of the day.</description>
+      <dc:creator>ANDREA KANNAPELL and HIROKO MASUIKE</dc:creator>
+      <pubDate>Tue, 09 Apr 2019 04:07:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Your Tuesday Briefing</title>
+      <link>https://www.nytimes.com/2019/04/08/briefing/trump-brexit-israel.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/briefing/trump-brexit-israel.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/08/briefing/trump-brexit-israel.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/09/briefing/09ambriefing-euro-slide-9M02/09ambriefing-euro-slide-9M02-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Trump and Kirstjen Nielsen visiting the new border wall in Calexico, Calif., on Friday.</media:description>
+      <media:credit>Al Drago for The New York Times</media:credit>
+      <description>Let us help you start your day.</description>
+      <dc:creator>MELINA DELKIC</dc:creator>
+      <pubDate>Tue, 09 Apr 2019 04:05:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cancel Kirstjen Nielsen</title>
+      <link>https://www.nytimes.com/2019/04/08/opinion/kirstjen-nielsen-family-separation-trump.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/opinion/kirstjen-nielsen-family-separation-trump.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/08/opinion/kirstjen-nielsen-family-separation-trump.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/08/opinion/08goldbergWeb/merlin_148362525_fbe9e42b-4e74-4b5d-8427-a822cbd97fdc-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Joshua Roberts/Reuters</media:credit>
+      <description>Her role in terrorizing children should make her a permanent pariah.</description>
+      <dc:creator>MICHELLE GOLDBERG</dc:creator>
+      <pubDate>Tue, 09 Apr 2019 03:09:33 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nielsen, Kirstjen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Blacklisting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
+    </item>
+    <item>
+      <title>At Long Last, a Glimpse of a Black Hole</title>
+      <link>https://www.nytimes.com/2019/04/08/opinion/black-hole.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/opinion/black-hole.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/08/opinion/black-hole.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/08/opinion/08natarajan/08natarajan-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Jon Han</media:description>
+      <media:credit>Jon Han</media:credit>
+      <description>This week scientists are expected to release images of the silhouette of this elusive and inscrutable astronomical object.</description>
+      <dc:creator>PRIYAMVADA NATARAJAN</dc:creator>
+      <pubDate>Tue, 09 Apr 2019 00:07:18 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stars and Galaxies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Black Holes (Space)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Telescopes and Observatories</category>
+    </item>
+    <item>
+      <title>Subpoena Isn&#x2019;t the Only Way to Get the Mueller Report</title>
+      <link>https://www.nytimes.com/2019/04/08/opinion/subpoena-mueller-report-intelligence-.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/opinion/subpoena-mueller-report-intelligence-.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/08/opinion/subpoena-mueller-report-intelligence-.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/09/opinion/09divoll/09divoll-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Michael George Haddad</media:credit>
+      <description>By law, the House and Senate Intelligence Committees should already have certain investigative materials relating to Russian election meddling.</description>
+      <dc:creator>VICKI DIVOLL</dc:creator>
+      <pubDate>Tue, 09 Apr 2019 00:15:49 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">USA PATRIOT Act</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barr, William P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mueller, Robert S III</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">House Committee on Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Senate Committee on Intelligence</category>
+    </item>
+    <item>
+      <title>People Can Savage Social Norms, but Also Revive Them</title>
+      <link>https://www.nytimes.com/2019/04/08/opinion/rebuilding-norms-trump.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/opinion/rebuilding-norms-trump.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/08/opinion/rebuilding-norms-trump.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/08/opinion/08brooksWeb/08brooksWeb-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Cass Sunstein's new book puts norms at the center of how we think about change. </media:description>
+      <media:credit>Shawn Brackbill for The New York Times</media:credit>
+      <description>Individuals can change the way we see.</description>
+      <dc:creator>DAVID BROOKS</dc:creator>
+      <pubDate>Mon, 08 Apr 2019 23:39:06 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">How Change Happens (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunstein, Cass R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Books and Literature</category>
+    </item>
+    <item>
+      <title>Why Does Trump Want to Debase the Fed?</title>
+      <link>https://www.nytimes.com/2019/04/08/opinion/fed-herman-cain-stephen-moore.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/opinion/fed-herman-cain-stephen-moore.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/08/opinion/fed-herman-cain-stephen-moore.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/08/opinion/08krugmanWeb/08krugmanWeb-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Flags flying above the Federal Reserve building in Washington.</media:description>
+      <media:credit>Chris Wattie/Reuters</media:credit>
+      <description>The tax cut fizzled; send in the clowns!</description>
+      <dc:creator>PAUL KRUGMAN</dc:creator>
+      <pubDate>Mon, 08 Apr 2019 21:52:14 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cain, Herman</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moore, Stephen (1960- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>Who Is Left to Say No to Trump?</title>
+      <link>https://www.nytimes.com/2019/04/08/opinion/kirstjen-nielsen-trump-border.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/opinion/kirstjen-nielsen-trump-border.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/08/opinion/kirstjen-nielsen-trump-border.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/08/opinion/08bouieWeb/08bouieWeb-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Kirstjen Nielsen at the White House last June with President Trump and Vice President Pence, for the signing of an executive order meant to end the separation of families at the border.</media:description>
+      <media:credit>Al Drago for The New York Times</media:credit>
+      <description>Kirstjen Nielsen is the latest one out of the president&#x2019;s spiraling cabinet who expressed his cruelty but wouldn&#x2019;t go as far as he wanted.</description>
+      <dc:creator>JAMELLE BOUIE</dc:creator>
+      <pubDate>Mon, 08 Apr 2019 23:33:21 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Attorneys General</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Asylum, Right of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Immigration Detention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Customs and Border Protection (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barr, William P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cuccinelli, Kenneth T II</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McAleenan, Kevin K</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nielsen, Kirstjen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mueller, Robert S III</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pompeo, Mike</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sessions, Jefferson B III</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Whitaker, Matthew G</category>
+    </item>
+    <item>
+      <title>To Reform the Police, Target Their Union Contract</title>
+      <link>https://www.nytimes.com/2019/04/08/opinion/austin-police-union-contract.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/opinion/austin-police-union-contract.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/08/opinion/austin-police-union-contract.html?partner=rss&amp;emc=rss"/>
+      <description>We did this in Austin and won.</description>
+      <dc:creator>SUKYI MCMAHON and CHAS MOORE</dc:creator>
+      <pubDate>Mon, 08 Apr 2019 19:50:19 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Blacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Austin (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Police</category>
+    </item>
+    <item>
+      <title>The Stone: The End of Satire</title>
+      <link>https://www.nytimes.com/2019/04/08/opinion/the-end-of-satire.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/opinion/the-end-of-satire.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/08/opinion/the-end-of-satire.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/08/opinion/08stoneWeb/08stoneWeb-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Detail from an exhibit of children&#x2019;s drawings sent to the Charlie Hebdo office after the 2015 terrorist attack.</media:description>
+      <media:credit>Francois Guillot/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The toxic disinformation of social media has rendered traditional forms of humor quaint and futile.</description>
+      <dc:creator>JUSTIN E.H. SMITH</dc:creator>
+      <pubDate>Mon, 08 Apr 2019 10:00:03 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comedy and Humor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Philosophy</category>
+    </item>
+    <item>
+      <title>The N.F.L.&#x2019;s Great Cherry Tree Caper</title>
+      <link>https://www.nytimes.com/2019/04/08/opinion/nfl-nashville-cherry-trees.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/opinion/nfl-nashville-cherry-trees.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/08/opinion/nfl-nashville-cherry-trees.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/08/opinion/08renklWeb/08renklWeb-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Public outcry disrupted plans to cut down cherry trees in Nashville to make space for an event for the NFL.</media:description>
+      <media:credit>Mark Humphrey/Associated Press</media:credit>
+      <description>The league didn&#x2019;t actually try to steal Nashville&#x2019;s gorgeous cherry trees, but it sure felt that way.</description>
+      <dc:creator>MARGARET RENKL</dc:creator>
+      <pubDate>Mon, 08 Apr 2019 10:00:09 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trees and Shrubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Football League</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nashville (Tenn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
+    </item>
+    <item>
+      <title>Latin America Is Already Trump&#x2019;s 2020 Presidential Campaign Testing Ground</title>
+      <link>https://www.nytimes.com/2019/04/08/opinion/trump-latin-america-immigration.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/opinion/trump-latin-america-immigration.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/08/opinion/trump-latin-america-immigration.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/08/opinion/08shifterWeb/08shifterWeb-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Trump speaking about immigration and border security in Calexico, Calif., on Friday.</media:description>
+      <media:credit>Al Drago for The New York Times</media:credit>
+      <description>The U.S. president needs to keep cooperating closely with Mexico, steer clear of any military action in Venezuela and refrain from bullying his partners and allies in the region.</description>
+      <dc:creator>MICHAEL SHIFTER</dc:creator>
+      <pubDate>Mon, 08 Apr 2019 10:00:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lopez Obrador, Andres Manuel</category>
+    </item>
+    <item>
+      <title>Iran Should Reconcile With America</title>
+      <link>https://www.nytimes.com/2019/04/08/opinion/iran-united-states.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/opinion/iran-united-states.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/08/opinion/iran-united-states.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/08/opinion/08Hook/08Hook-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A woman in Qazvin, Iran, in February.</media:description>
+      <media:credit>Rouzbeh Fouladi/NurPhoto, via Getty Images</media:credit>
+      <description>Isn&#x2019;t it time to abandon the policies that have kept the people of Iran and the United States apart since 1979?</description>
+      <dc:creator>BRIAN H. HOOK</dc:creator>
+      <pubDate>Mon, 08 Apr 2019 18:45:22 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Islamic Revolution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khomeini, Ruhollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Muslims and Islam</category>
+    </item>
+    <item>
+      <title>The Rise and Rise of the Turkish Right</title>
+      <link>https://www.nytimes.com/2019/04/08/opinion/turkey-nationalism-right-wing.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/opinion/turkey-nationalism-right-wing.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/08/opinion/turkey-nationalism-right-wing.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/08/opinion/08karaveliSub/08karaveliSub-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Mansur Yavas campaigning for mayor in Ankara, Turkey, in March.</media:description>
+      <media:credit>Rasit Aydogan/Anadolu Agency, via Getty Images</media:credit>
+      <description>The opposition parties challenging President Recep Tayyip Erdogan offer another version of the right-wing nationalism of his party and its nationalist partner.</description>
+      <dc:creator>HALIL M. KARAVELI</dc:creator>
+      <pubDate>Mon, 08 Apr 2019 10:00:08 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D'Etat and Attempted Coups D'Etat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Organized Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Political Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Justice and Development Party (Turkey)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Nationalist Movement Party (Turkey)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Aksener, Meral</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Evren, Kenan (1917-2015)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kilicdaroglu, Kemal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+    </item>
+    <item>
+      <title>With &#x2018;Unplanned,&#x2019; Abortion Opponents Turn Toward Hollywood</title>
+      <link>https://www.nytimes.com/2019/04/08/movies/unplanned-movie-abortion.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/movies/unplanned-movie-abortion.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/08/movies/unplanned-movie-abortion.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/09/arts/08unplanned1/08unplanned1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Ashley Bratcher, left, in &#x201C;Unplanned,&#x201D; where she portrays Abby Johnson, a former director of a Planned Parenthood clinic who became an abortion-rights opponent.</media:description>
+      <media:credit>Pure Flix</media:credit>
+      <description>The makers of the divisive anti-abortion movie &#x2014; a word-of-mouth hit that a physician called misleading &#x2014; say they&#x2019;ve been shunned by mainstream media.</description>
+      <dc:creator>REGGIE UGWU</dc:creator>
+      <pubDate>Mon, 08 Apr 2019 17:43:05 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Unplanned (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Religion and Belief</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Roe v Wade (Supreme Court Decision)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Pregnancy and Childbirth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Konzelman, Chuck</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Solomon, Cary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bratcher, Ashley</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Planned Parenthood Federation of America</category>
+    </item>
+    <item>
+      <title>The Saturday Profile: An Arabic-Speaking Talk-Show Host Wades Into Germany&#x2019;s Culture Wars</title>
+      <link>https://www.nytimes.com/2019/04/05/world/europe/germany-abdul-karim-syrian-refugees.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/05/world/europe/germany-abdul-karim-syrian-refugees.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/05/world/europe/germany-abdul-karim-syrian-refugees.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/27/world/xxAbdulKarim1/fileupload-1553686462930-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>As the host of a popular Arabic language talk show on German television, Jaafar Abdul Karim has presided over thousands of difficult discussions.</media:description>
+      <media:credit>Paul Zinken/picture-alliance, via Associated Press</media:credit>
+      <description>Jafaar Abdul Karim is not afraid to take on issues that many Muslim refugees in the country consider taboo. And, yes, he has had death threats.</description>
+      <dc:creator>CHRISTOPHER F. SCHUETZE and KARAM SHOUMALI</dc:creator>
+      <pubDate>Fri, 05 Apr 2019 13:30:05 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle East and Africa Migrant Crisis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Deutsche Welle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Customs, Etiquette and Manners</category>
+    </item>
+    <item>
+      <title>Metropolitan Diary: &#x2018;I Really Just Wanted the Comfort of My Husband&#x2019;s Being There&#x2019;</title>
+      <link>https://www.nytimes.com/2019/04/08/nyregion/metropolitan-diary.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/nyregion/metropolitan-diary.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/08/nyregion/metropolitan-diary.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <description>Asking for flowers before having surgery, help hailing a cab on East Houston Street and more reader tales of New York City in this week&#x2019;s Metropolitan Diary.</description>
+      <dc:creator/>
+      <pubDate>Mon, 08 Apr 2019 13:04:48 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+    </item>
+    <item>
+      <title>Trump Designates Iran&#x2019;s Revolutionary Guards a Foreign Terrorist Group</title>
+      <link>https://www.nytimes.com/2019/04/08/world/middleeast/trump-iran-revolutionary-guard-corps.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/world/middleeast/trump-iran-revolutionary-guard-corps.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/08/world/middleeast/trump-iran-revolutionary-guard-corps.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/08/us/politics/08dc-iran/08dc-iran-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Members of the Islamic Revolutionary Guards Corps in Tehran this year. President Trump said the designation &#x201C;will significantly expand the scope and scale of our maximum pressure on the Iranian regime.&#x201D;</media:description>
+      <media:credit>Vahid Salemi/Associated Press</media:credit>
+      <description>The designation is the first one by the United States against part of a foreign government. The Pentagon and C.I.A. oppose the move, citing risks to Americans.</description>
+      <dc:creator>EDWARD WONG and ERIC SCHMITT</dc:creator>
+      <pubDate>Tue, 09 Apr 2019 02:39:44 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+    </item>
+    <item>
+      <title>Trump Ends Deal Between M.L.B. and Cuban Baseball Federation</title>
+      <link>https://www.nytimes.com/2019/04/08/sports/mlb-cuba-donald-trump.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/sports/mlb-cuba-donald-trump.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/08/sports/mlb-cuba-donald-trump.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/08/sports/08mlb-cuba-2/08mlb-cuba-2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Los Leneros de las Tunas, a Cuban baseball team, before a Caribbean Series game in Panama City in February.</media:description>
+      <media:credit>Arnulfo Franco/Associated Press</media:credit>
+      <description>The Trump administration declared that the deal violated trade laws because the Cuban federation was part of the government in Havana.</description>
+      <dc:creator>DAVID WALDSTEIN and MICHAEL TACKETT</dc:creator>
+      <pubDate>Tue, 09 Apr 2019 01:43:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Major League Baseball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Office of Foreign Assets Control (United States Treasury)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Cuban Baseball Federation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cuba</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+    </item>
+    <item>
+      <title>Eric Swalwell, California Congressman, Is Running for President</title>
+      <link>https://www.nytimes.com/2019/04/08/us/politics/eric-swalwell-2020.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/us/politics/eric-swalwell-2020.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/08/us/politics/eric-swalwell-2020.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/09/us/politics/09swalwell/09swalwell-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Representative Eric Swalwell announced on Monday that he is running for president.</media:description>
+      <media:credit>Elise Amendola/Associated Press</media:credit>
+      <description>Mr. Swalwell, a member of the House Intelligence and Judiciary Committees, has gained notoriety as a critic of President Trump&#x2019;s foreign and immigration policies.</description>
+      <dc:creator>MAGGIE ASTOR</dc:creator>
+      <pubDate>Tue, 09 Apr 2019 01:08:38 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swalwell, Eric</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+    </item>
+    <item>
+      <title>Powerful Storm Threatens More Misery in Flood-Hit Midwest</title>
+      <link>https://www.nytimes.com/2019/04/08/us/winter-storm-wesley.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/us/winter-storm-wesley.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/08/us/winter-storm-wesley.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/08/us/08midwest-weather/08midwest-weather-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Flooding in the town of Hamburg, Iowa, on March 20. A powerful storm this week is expected to dump significant snow and rain on farms and floodplains that are still struggling to recover from last month&#x2019;s historic storm.</media:description>
+      <media:credit>Hilary Swift for The New York Times</media:credit>
+      <description>The system is expected to dump significant snow and rain this week on a region that is still struggling to recover from devastating floods.</description>
+      <dc:creator>RICHARD A. OPPEL Jr.</dc:creator>
+      <pubDate>Mon, 08 Apr 2019 20:58:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Snow and Snowstorms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midwestern States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyclones</category>
+    </item>
+    <item>
+      <title>Maryland Man Planned to Run Down Pedestrians at National Harbor, U.S. Says</title>
+      <link>https://www.nytimes.com/2019/04/08/us/national-harbor-rondell-henry.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/us/national-harbor-rondell-henry.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/08/us/national-harbor-rondell-henry.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/08/us/08xp-harborattack/08xp-harborattack-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The National Harbor in Maryland. Federal prosecutors say a 28-year-old man planned to run down pedestrians on the waterfront in an ISIS-inspired attack.</media:description>
+      <media:credit>Cropper/Alamy</media:credit>
+      <description>Federal prosecutors say Rondell Henry, 28, was inspired by an ISIS attack in Nice, France, in 2016. He has been charged with interstate transportation of a stolen vehicle.</description>
+      <dc:creator>HEATHER MURPHY</dc:creator>
+      <pubDate>Tue, 09 Apr 2019 00:22:42 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">National Harbor (Md)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maryland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Henry, Rondell</category>
+    </item>
+    <item>
+      <title>Hopes Raised During the Arab Spring Are Being Revived Across North Africa</title>
+      <link>https://www.nytimes.com/2019/04/08/world/africa/arab-spring-north-africa-protesters.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/world/africa/arab-spring-north-africa-protesters.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/08/world/africa/arab-spring-north-africa-protesters.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/08/world/08arabspring-ripples1/08arabspring-ripples1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Protesters rally in front of the military headquarters in Khartoum, the capital of Sudan, on Monday.</media:description>
+      <media:credit>Associated Press</media:credit>
+      <description>The uprisings of 2011 are inspiring a new generation to challenge entrenched, authoritarian leaders, raising hopes as well as doubts about the future.</description>
+      <dc:creator>DAVID D. KIRKPATRICK</dc:creator>
+      <pubDate>Tue, 09 Apr 2019 01:26:34 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle East and North Africa Unrest (2010- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Supreme Council of the Armed Forces (Egypt)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bashir, Omar Hassan Al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hifter, Khalifa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sisi, Abdel Fattah el-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Algeria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sudan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Libya</category>
+    </item>
+    <item>
+      <title>Culture of Secrecy Shields Hospitals With Outbreaks of Drug-Resistant Infections</title>
+      <link>https://www.nytimes.com/2019/04/08/health/candida-auris-hospitals-drug-resistant.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/health/candida-auris-hospitals-drug-resistant.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/08/health/candida-auris-hospitals-drug-resistant.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/08/science/08GERMS-HOSPITALS1/08GERMS-HOSPITALS1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The C.D.C. made a public announcement when an antibiotic-resistant form of the rod-shaped Pseudomonas aeruginosa bacteria sickened several American travelers to Tijuana, Mexico. But it does not reveal which hospitals in the United States are battling infectious outbreaks.</media:description>
+      <media:credit>Janice Haney Carr/Centers for Disease Control and Prevention</media:credit>
+      <description>The lack of transparency puts patients at risk, some say. Institutions say disclosure could scare some people away from seeking needed medical care.</description>
+      <dc:creator>ANDREW JACOBS and MATT RICHTEL</dc:creator>
+      <pubDate>Tue, 09 Apr 2019 02:29:41 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Candida Auris (Fungus)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Drug Resistance (Microbial)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Infections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Centers for Disease Control and Prevention</category>
+    </item>
+    <item>
+      <title>Pompeo Bars 16 Saudis From U.S. in Response to Khashoggi Killing</title>
+      <link>https://www.nytimes.com/2019/04/08/us/politics/saudi-sanctions-khashoggi.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/us/politics/saudi-sanctions-khashoggi.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/08/us/politics/saudi-sanctions-khashoggi.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/08/us/08dc-saudi2/08dc-saudi2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Crown Prince Mohammed bin Salman with Secretary of State Mike Pompeo in January at the Royal Court in Riyadh, Saudi Arabia.</media:description>
+      <media:credit>Pool photo by Andrew Cabellero-Reynolds</media:credit>
+      <description>The list included one of Prince Mohammed&#x2019;s closest aides, but not the prince himself, despite U.S. intelligence agencies concluding he was responsible for sending the team to kill Jamal Khashoggi.</description>
+      <dc:creator>DAVID E. SANGER</dc:creator>
+      <pubDate>Tue, 09 Apr 2019 04:01:16 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khashoggi, Jamal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pompeo, Mike</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">State Department</category>
+    </item>
+    <item>
+      <title>9 Hong Kong Democracy Advocates Convicted for Role in 2014 Protests</title>
+      <link>https://www.nytimes.com/2019/04/08/world/asia/hong-kong-umbrella-revolution-occupy-central.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/world/asia/hong-kong-umbrella-revolution-occupy-central.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/08/world/asia/hong-kong-umbrella-revolution-occupy-central.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/05/08/world/08hongkong-1sub/08hongkong-1sub-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Nine democracy activists posed for photographers before entering a court in Hong Kong on Tuesday.</media:description>
+      <media:credit>Kin Cheung/Associated Press</media:credit>
+      <description>Nine activists, including three founders of a group that called for civil disobedience, are facing up to seven years in prison on public nuisance charges.</description>
+      <dc:creator>AUSTIN RAMZY</dc:creator>
+      <pubDate>Tue, 09 Apr 2019 04:03:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tai Yiu-ting, Benny</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Occupy Central</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+    </item>
+    <item>
+      <title>Kick-Start Your Reading Habit With Bite-Sized Books</title>
+      <link>https://www.nytimes.com/2019/04/03/smarter-living/kick-start-your-reading-habit-with-bite-sized-books.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/03/smarter-living/kick-start-your-reading-habit-with-bite-sized-books.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/03/smarter-living/kick-start-your-reading-habit-with-bite-sized-books.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/28/smarter-living/28sl_readmorebooks/28sl_readmorebooks-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Jackson Gibbs</media:credit>
+      <description>If you don&#x2019;t feel like you have the time to read more, or struggle to finish a book, this method will help. If you have time for Twitter or Instagram, you have time for these books.</description>
+      <dc:creator>HARRY GUINNESS</dc:creator>
+      <pubDate>Thu, 04 Apr 2019 21:18:22 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reading and Writing Skills (Education)</category>
+    </item>
+    <item>
+      <title>How to Mount a TV Without Making a Mess</title>
+      <link>https://www.nytimes.com/2019/04/05/smarter-living/wirecutter/how-to-mount-a-tv-without-making-a-mess.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/05/smarter-living/wirecutter/how-to-mount-a-tv-without-making-a-mess.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/05/smarter-living/wirecutter/how-to-mount-a-tv-without-making-a-mess.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <description>Don&#x2019;t underestimate the time and energy it takes to mount your TV on the wall yourself. Here&#x2019;s how to do it and keep your wall &#x2014; and your peace of mind &#x2014; in one piece.</description>
+      <dc:creator>GANDA SUTHIVARAKOM</dc:creator>
+      <pubDate>Fri, 05 Apr 2019 21:30:03 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wire and Cable</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television Sets and Media Devices</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-wirecutter</category>
+    </item>
+    <item>
+      <title>How to Deal With a Jerk Without Being a Jerk</title>
+      <link>https://www.nytimes.com/2019/04/05/smarter-living/how-to-deal-with-a-jerk-without-being-a-jerk.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/05/smarter-living/how-to-deal-with-a-jerk-without-being-a-jerk.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/05/smarter-living/how-to-deal-with-a-jerk-without-being-a-jerk.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/05/smarter-living/05grant-sl-color/05grant-sl-color-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Till Lauer</media:credit>
+      <description>It&#x2019;s natural to get defensive, but that only escalates the cycle of aggression.</description>
+      <dc:creator>ADAM GRANT</dc:creator>
+      <pubDate>Fri, 05 Apr 2019 14:05:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crowdwise: What to Say (and What Not to Say) to Someone Who&#x2019;s Grieving</title>
+      <link>https://www.nytimes.com/2019/02/14/smarter-living/what-to-say-and-what-not-to-say-to-someone-whos-grieving.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/02/14/smarter-living/what-to-say-and-what-not-to-say-to-someone-whos-grieving.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/02/14/smarter-living/what-to-say-and-what-not-to-say-to-someone-whos-grieving.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/02/06/smarter-living/cw_empathydeficit/cw_empathydeficit-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Graham Roumieu</media:credit>
+      <description>A little empathy goes a long way, especially when someone is recovering from the loss of a loved one. Unfortunately, even when some of us mean well, we make the situation worse. Here&#x2019;s how to avoid it.</description>
+      <dc:creator>DAVID POGUE</dc:creator>
+      <pubDate>Fri, 15 Feb 2019 22:05:34 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs, Etiquette and Manners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grief (Emotion)</category>
+    </item>
+    <item>
+      <title>How to Tap Less on Your Phone (but Get More Done)</title>
+      <link>https://www.nytimes.com/2019/04/04/smarter-living/tap-less-phone-voice-assistant-shortcuts.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/04/smarter-living/tap-less-phone-voice-assistant-shortcuts.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/04/smarter-living/tap-less-phone-voice-assistant-shortcuts.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <description>Most of us spend hours each day tapping the glass of our smartphones. But what if you could do just as much &#x2014; maybe more &#x2014; and give your fingers a break?</description>
+      <dc:creator>DAVID POGUE</dc:creator>
+      <pubDate>Thu, 04 Apr 2019 21:40:57 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Android (Operating System)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">iPhone</category>
+    </item>
+    <item>
+      <title>Lens: Photos of Lesbian Lives Meant to Inspire a Movement</title>
+      <link>https://www.nytimes.com/2019/04/08/lens/lesbian-lives-movement-jeb.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/lens/lesbian-lives-movement-jeb.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/08/lens/lesbian-lives-movement-jeb.html?partner=rss&amp;emc=rss"/>
+      <description>Joan E. Biren began to photograph at a time when it was almost impossible to find authentic images of lesbians and aimed to help build a movement for their liberation.</description>
+      <dc:creator>KERRY MANDERS</dc:creator>
+      <pubDate>Mon, 08 Apr 2019 08:00:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
+    </item>
+    <item>
+      <title>Spain Gets a Crash Course in a Former Colony&#x2019;s Art</title>
+      <link>https://www.nytimes.com/2019/04/05/arts/design/peru-art-madrid-prado.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/05/arts/design/peru-art-madrid-prado.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/05/arts/design/peru-art-madrid-prado.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <description>Several shows running across Madrid are asking viewers to think differently about the art of Peru, and Spain&#x2019;s own history.</description>
+      <dc:creator>MAYA JAGGI</dc:creator>
+      <pubDate>Fri, 05 Apr 2019 14:17:56 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Incas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Peru</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Prado Museum</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gamarra, Sandra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">ARCOmadrid</category>
+    </item>
+    <item>
+      <title>Nonfiction: New Directions for American Foreign Policy</title>
+      <link>https://www.nytimes.com/2019/04/05/books/review/bernard-henri-levy-empire-five-kings-ted-galen-carpenter-gullible-superpower.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/05/books/review/bernard-henri-levy-empire-five-kings-ted-galen-carpenter-gullible-superpower.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/05/books/review/bernard-henri-levy-empire-five-kings-ted-galen-carpenter-gullible-superpower.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/07/books/review/07Kurtz_Phelan/07Kurtz_Phelan-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Chris Gash</media:credit>
+      <description>Bernard-Henri L&#xE9;vy&#x2019;s &#x201C;The Empire and the Five Kings&#x201D; and Ted Galen Carpenter&#x2019;s &#x201C;Gullible Superpower&#x201D; offer conflicting advice on where we should go from here.</description>
+      <dc:creator>DANIEL KURTZ-PHELAN</dc:creator>
+      <pubDate>Fri, 05 Apr 2019 09:00:12 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Cato Institute</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carpenter, Ted Galen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Levy, Bernard-Henri</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Gullible Superpower: U.S. Support for Bogus Democratic Movements (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Empire and the Five Kings: America's Abdication and the Fate of the World (Book)</category>
+    </item>
+    <item>
+      <title>Letter of Recommendation: Letter of Recommendation: Personality Cafe</title>
+      <link>https://www.nytimes.com/2019/04/02/magazine/letter-of-recommendation-personality-cafe.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/02/magazine/letter-of-recommendation-personality-cafe.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/02/magazine/letter-of-recommendation-personality-cafe.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/07/magazine/07Mag-LOR-1/07Mag-LOR-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Photo illustration by Yoshi Sodeoka. Source photographs from Getty Images.</media:credit>
+      <description>How I found a road map to my emotions on a decade-old online message board.</description>
+      <dc:creator>JEFF IHAZA</dc:creator>
+      <pubDate>Tue, 02 Apr 2019 09:00:05 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emotions</category>
+    </item>
+    <item>
+      <title>A Savory Tart for a Fickle Season</title>
+      <link>https://www.nytimes.com/2019/04/08/dining/zucchini-tart.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/dining/zucchini-tart.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/08/dining/zucchini-tart.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/10/dining/08tart/merlin_152985294_2fe615ba-110b-40de-8085-bafc5280b6c6-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Johnny Miller for The New York Times. Food Stylist: Rebecca Jurkevich.</media:credit>
+      <description>Using store-bought puff pastry makes this spring tart more effortless than it may appear.</description>
+      <dc:creator>ALEXA WEIBEL</dc:creator>
+      <pubDate>Mon, 08 Apr 2019 16:12:39 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eggs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vegetables</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Spring (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Zucchini</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jones, Anna (1979- )</category>
+    </item>
+    <item>
+      <title>The New Health Care: Can Doctors Talk Teenagers Out of Risky Drinking?</title>
+      <link>https://www.nytimes.com/2019/04/08/upshot/teenagers-risky-drinking-doctors-counseling.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/08/upshot/teenagers-risky-drinking-doctors-counseling.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/08/upshot/teenagers-risky-drinking-doctors-counseling.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/01/upshot/01up-health-alcohol1/01up-health-alcohol1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Excessive drinking accounts for more than 4,300 deaths among adolescents each year in the United States. </media:description>
+      <media:credit>Charly Triballeau/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The answer is worth knowing. The research is lacking.</description>
+      <dc:creator>AARON E. CARROLL</dc:creator>
+      <pubDate>Tue, 09 Apr 2019 03:59:49 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Alcohol Abuse</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Preventive Medicine</category>
+    </item>
+    <item>
+      <title>Modern Monetary Theory Finds an Embrace in an Unexpected Place: Wall Street</title>
+      <link>https://www.nytimes.com/2019/04/05/business/economy/mmt-wall-street.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/05/business/economy/mmt-wall-street.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/05/business/economy/mmt-wall-street.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/05/business/05MMT1/05MMT1-moth-v3.jpg" medium="image" height="151" width="151"/>
+      <media:description>Money managers, chief executives and business analysts maintain that modern monetary theory offers important insights. Far from finding it fanciful or deranged, they are using M.M.T. to build economic forecasts and even trading strategies.</media:description>
+      <media:credit>Hilary Swift for The New York Times</media:credit>
+      <description>M.M.T.&#x2019;s fans include Alexandria Ocasio-Cortez, Bernie Sanders &#x2014; and financial analysts at Goldman Sachs, Nomura and GMO.</description>
+      <dc:creator>PATRICIA COHEN</dc:creator>
+      <pubDate>Fri, 05 Apr 2019 15:10:26 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Budget (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">National Debt (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Credit and Debt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kelton, Stephanie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economics (Theory and Philosophy)</category>
+    </item>
+    <item>
+      <title>Doctors: Rituals of Honor in Hospital Hallways</title>
+      <link>https://www.nytimes.com/2019/04/02/well/live/rituals-of-honor-in-hospital-hallways.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/02/well/live/rituals-of-honor-in-hospital-hallways.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/02/well/live/rituals-of-honor-in-hospital-hallways.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/29/well/family/00VThonorwalk/00VThonorwalk-moth.png" medium="image" height="151" width="151"/>
+      <media:description>Employees at the University of Vermont Medical Center line the hallway for an honor walk for a dying patient whose organs will be donated to others.</media:description>
+      <media:credit>University of Vermont Medical Center</media:credit>
+      <description>Hospitals across the United States are holding honor walks to show respect to patients at the end of life who are donating organs to others.</description>
+      <dc:creator>TIM LAHEY, M.D.</dc:creator>
+      <pubDate>Wed, 03 Apr 2019 14:17:51 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organ Donation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grief (Emotion)</category>
+    </item>
+    <item>
+      <title>The Races Are Virtual but the Running Is Real</title>
+      <link>https://www.nytimes.com/2019/03/29/well/move/the-races-are-virtual-but-the-running-is-real.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/29/well/move/the-races-are-virtual-but-the-running-is-real.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/03/29/well/move/the-races-are-virtual-but-the-running-is-real.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <description>Participants in virtual races run whenever they can, wherever they can, and say they still have some of the sense of being part of a crowd, even if they&#x2019;re running alone.</description>
+      <dc:creator>JEN A. MILLER</dc:creator>
+      <pubDate>Fri, 29 Mar 2019 14:25:25 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Running</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">New York City Marathon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Exercise</category>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,114 @@
+﻿@using Sirpenski.Syndication.Rss20;
+@{
+    Rss20 rss = Model;
+    RssChannel chan = rss.channel;
+
+    string channel_image_url = "";
+    if (chan.image != null)
+    {
+        channel_image_url = chan.image.url;
+    }
+
+    string channel_pubdate = "";
+    if (chan.pubDate != DateTime.MinValue)
+    {
+        channel_pubdate = "Published: " + chan.pubDate.ToString("ddd MMM dd, yyyy hh:mm tt");
+    }
+
+}
+
+<div class="row">
+    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <table class="table">
+            <tr>
+                <td style="width:100px">
+                    @if (channel_image_url.Length > 0)
+                    {
+                        <img src="@channel_image_url" class="img-fluid" />
+                    }
+                </td>
+
+                <td>
+                    <a href="@chan.link" target="_blank">
+                        <h2>
+                            @chan.title
+                        </h2>
+                    </a>
+
+                    @if (channel_pubdate.Length > 0)
+                    {
+                        @channel_pubdate
+                        <br /><br />
+                    }
+
+                    @chan.description
+
+                </td>
+
+            </tr>
+
+
+            <!-- now do the channel items-->
+            @for (int i = 0; i < chan.items.Count && i < 25; i++)
+            {
+                RssItem itm = chan.items[i];
+                RssMediaThumbnail thumb = itm.GetThumbnail();
+                RssMediaContent contentItem = itm.GetFirstImageItem("image");
+                string desc = itm.GetEffectiveDescription();
+
+                
+
+
+                <tr>
+                    <td style="width:100px;padding-top:2.0em">
+                        @if (thumb != null)
+                        {
+                            <img src="@thumb.url" class="img-fluid" />
+                        }
+                    </td>
+
+                    <td style="padding-top:2.0em">
+                        <a href="@itm.link" target="_blank">
+                            <h3>
+                                @Html.Raw(itm.title)
+                            </h3>
+                        </a>
+                        Published: @itm.pubDate.ToString("ddd MMM dd, yyyy hh:mm tt")
+
+                        @if (contentItem != null)
+                        {
+                            <br /><br />
+
+                            <a href="@itm.link" target="_blank">
+                                <img src="@contentItem.url" class="img-fluid" />
+                            </a>
+                            <br /><br />
+
+                        }
+
+                        @if (desc.Length > 0)
+                        {
+                            <p>
+                                @Html.Raw(desc)
+                            </p>
+                        }
+                    </td>
+
+                </tr>
+
+
+
+
+            }
+
+        </table>
+
+    </div>
+
+
+
+
+
+</div>
+
+

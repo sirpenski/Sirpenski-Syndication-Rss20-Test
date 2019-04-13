@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>Education News</title>
+ <description>A RSS feed containing the latest education related news from NASA.</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/educationnews.rss" />
+ <language>en-us</language>
+ <managingEditor>sandra.b.may@nasa.gov</managingEditor>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <item> <title>NASA Student Launch Teams Roll to the Pad in Huntsville</title>
+ <link>http://www.nasa.gov/centers/marshall/news/news/releases/2019/M19-008.html</link>
+ <description>It is time for the participants of NASA’s Student Launch competition hosted by NASA’s Marshall Space Flight Center in Huntsville, Alabama, to head to the launch pad. From all corners of the country, 46 middle school, high school and college teams representing 20 states will arrive in Huntsville for the pinnacle of the 2018-2019 competition.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/34219226720_57806cddac_k.jpg?itok=A8XSPzGz" length="980380" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/centers/marshall/news/news/releases/2019/M19-008.html</guid>
+ <pubDate>Thu, 28 Mar 2019 14:23 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>50 Years After Apollo, NASA Celebrates 25 Years of Student Rover Competition</title>
+ <link>http://www.nasa.gov/centers/marshall/news/news/releases/2019/50-years-after-apollo-nasa-celebrates-25-years-of-student-rover-competition.html</link>
+ <description>As NASA marks 50 years of lunar discovery, nearly 100 student teams from around the world will converge April 12-13 on Huntsville, Alabama, to compete in the NASA Human Exploration Rover Challenge -- which is celebrating its own 25th landmark year.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/elg_3240_0.jpg?itok=6kEQvdZR" length="1218388" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/centers/marshall/news/news/releases/2019/50-years-after-apollo-nasa-celebrates-25-years-of-student-rover-competition.html</guid>
+ <pubDate>Wed, 27 Mar 2019 08:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>NASA Selects Three Additional Informal Learning Institutions to Engage Learners in its Mission</title>
+ <link>http://www.nasa.gov/stem/nasa-selects-three-additional-informal-learning-institutions-to-engage-learners-in-its.html</link>
+ <description>NASA’s Teams Engaging Affiliated Museums and Informal Institutions (TEAM II) has selected three additional informal education organizations to supplement the initial group selected in June 2018.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/meatball-1041.jpg?itok=peuMD06B" length="73324" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/stem/nasa-selects-three-additional-informal-learning-institutions-to-engage-learners-in-its.html</guid>
+ <pubDate>Mon, 25 Mar 2019 13:12 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>NASA Marshall, University of Alabama in Huntsville to host NASA in the South Symposium March 28-29; Media Invited</title>
+ <link>http://www.nasa.gov/centers/marshall/news/news/releases/2019/M19-007.html</link>
+ <description>Marshall and the University of Alabama in Huntsville will host the 2019 &quot;NASA in the South&quot; symposium March 28-29, examining NASA&#039;s impact on Southern U.S. economy, culture and politics over the past 60 years.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/apollo_50th_full_color_150dpi.png?itok=SqLzlNbG" length="2066090" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/centers/marshall/news/news/releases/2019/M19-007.html</guid>
+ <pubDate>Mon, 25 Mar 2019 10:48 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>NASA Announces Tenth Round of Candidates for CubeSat Space Missions</title>
+ <link>http://www.nasa.gov/feature/nasa-announces-tenth-round-of-candidates-for-cubesat-space-missions</link>
+ <description>NASA has selected and prioritized 16 small research satellites from 10 states to fly as auxiliary payloads aboard space missions planned to launch in 2020, 2021 and 2022.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/cubesatdeployiss-1_0.jpg?itok=3dlDGSOu" length="1144984" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/nasa-announces-tenth-round-of-candidates-for-cubesat-space-missions</guid>
+ <pubDate>Thu, 14 Mar 2019 13:38 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>NASA’s Destination Station to Visit Dallas with Astronauts Chris Cassidy and Shannon Walker</title>
+ <link>http://www.nasa.gov/press-release/nasa-s-destination-station-to-visit-dallas-with-astronauts-chris-cassidy-and-shannon</link>
+ <description>NASA’s Destination Station will visit Dallas from March 19 through 22 to highlight the work being done on the International Space Station and to return humanity to the Moon and then to Mars.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/nasa-logo-web-rgb.png?itok=cEl8vqSq" length="125881" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-s-destination-station-to-visit-dallas-with-astronauts-chris-cassidy-and-shannon</guid>
+ <pubDate>Thu, 14 Mar 2019 09:04 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>NASA Administrator Speaks at Robotics Competition in Oklahoma</title>
+ <link>http://www.nasa.gov/press-release/nasa-administrator-speaks-at-robotics-competition-in-oklahoma</link>
+ <description>NASA Administrator, and Oklahoma native, Jim Bridenstine will be available to speak to media Saturday, March.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/robotics_team_5705_0.jpg?itok=hf_sFZcz" length="2650175" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-administrator-speaks-at-robotics-competition-in-oklahoma</guid>
+ <pubDate>Fri, 08 Mar 2019 13:40 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>Arizona Students to Speak with NASA Astronaut Aboard Space Station</title>
+ <link>http://www.nasa.gov/press-release/arizona-students-to-speak-with-nasa-astronaut-aboard-space-station</link>
+ <description>Students from Arizona will have an opportunity this week to talk with a NASA astronaut on the International Space Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/m19-012.jpg?itok=8IcveASY" length="2124388" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/arizona-students-to-speak-with-nasa-astronaut-aboard-space-station</guid>
+ <pubDate>Mon, 04 Mar 2019 09:03 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>BIG Idea Challenge 2019 Finalists to Develop Planetary Greenhouse Concepts</title>
+ <link>http://www.nasa.gov/feature/langley/big-idea-challenge-2019-finalists-to-develop-planetary-greenhouse-concepts</link>
+ <description>No drive-through? No problem. University students are designing greenhouses so astronauts can grow their own food on Mars.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/screen_shot_2019-02-04_at_9.19.40_am.png?itok=xWiVx6iU" length="2175015" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/langley/big-idea-challenge-2019-finalists-to-develop-planetary-greenhouse-concepts</guid>
+ <pubDate>Mon, 04 Feb 2019 16:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>Learning on the Job: Student Rocket Launches From Norway</title>
+ <link>http://www.nasa.gov/feature/goddard/2019/learning-on-the-job-student-rocket-launches-from-norway</link>
+ <description>The G-CHASER rocket launched from the Andøya Space Center in Andenes, Norway, on Jan. 13, 2019. On its way through the northern lights, it carried seven different experiments, each one designed, tested and built by students.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/46018_launch.jpg?itok=2AY5qftE" length="823474" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/goddard/2019/learning-on-the-job-student-rocket-launches-from-norway</guid>
+ <pubDate>Mon, 04 Feb 2019 11:30 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+</channel>
+</rss>
